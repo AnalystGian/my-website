@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on AnalystGian</title>
+    <link>http://localhost:1313/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/coffeesalesda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/coffeesalesda/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/excel/10/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/10/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MARKET DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/marketda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/marketda/</guid>
+      <description>&lt;p&gt;This project analyzes, connecting and shaping the data,&#xA;building a relational model, adding calculated fields, and designing an interactive report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report, metrics and KPI&amp;rsquo;s.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TOY STORE ANALYSIS</title>
+      <link>http://localhost:1313/analysis/toystoreda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/toystoreda/</guid>
+      <description>&lt;p&gt;This project analyzes historical toy data to track key metrics,&#xA;explore high-level trends, and build a simple but interactive KPI report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables,&#xA;creating simple hierarchies, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report to show orders, revenue and profit over time and by product category.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/officechairsda/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/officechairsda/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/excel/9/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/9/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

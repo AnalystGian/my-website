@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on AnalystGian</title>
+    <link>http://localhost:1313/tags/research/</link>
+    <description>Recent content in Research on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HYPOTHESIS TESTING IN R</title>
+      <link>http://localhost:1313/analysis/hypothesistestingr/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/hypothesistestingr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the basic concepts of hypothesis testing&lt;/li&gt;&#xA;&lt;li&gt;Perform different hypothesis tests for one and two samples&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: Getting Started&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Test for Proportions&lt;/li&gt;&#xA;&lt;li&gt;Task 3: Test for Means&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Two sample test for Proportions&lt;/li&gt;&#xA;&lt;li&gt;Task 5: Two sample test for Means&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Matched Samples&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/R.HypothesisTestingInR&#34;&gt;https://github.com/AnalystGian/R.HypothesisTestingInR&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

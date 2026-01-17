@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forecast on AnalystGian</title>
+    <link>http://localhost:1313/tags/forecast/</link>
+    <description>Recent content in Forecast on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/forecast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIME SERIES ANALYSIS: Singapore Labor Force Participation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-singaporelaborforce/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-singaporelaborforce/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Gapminder dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Implement and analyze the Holt Linear Trend Model and Holt Linear Trend Model - Damped.&lt;/li&gt;&#xA;&lt;li&gt;Utilize the ARIMA model for forecasting and compare the performance of different models.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

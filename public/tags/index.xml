@@ -6,6 +6,245 @@
     <description>Recent content in Tags on AnalystGian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://localhost:1313/tags/postgresql/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classification</title>
+      <link>http://localhost:1313/tags/classification/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decision Tree</title>
+      <link>http://localhost:1313/tags/decision-tree/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/decision-tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML</title>
+      <link>http://localhost:1313/tags/ml/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R Programming</title>
+      <link>http://localhost:1313/tags/r-programming/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/r-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistical Models</title>
+      <link>http://localhost:1313/tags/statistical-models/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/statistical-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ARIMA</title>
+      <link>http://localhost:1313/tags/arima/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/arima/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exponential Smoothing</title>
+      <link>http://localhost:1313/tags/exponential-smoothing/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/exponential-smoothing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forecast</title>
+      <link>http://localhost:1313/tags/forecast/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/forecast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seasonality</title>
+      <link>http://localhost:1313/tags/seasonality/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/seasonality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Series Analysis</title>
+      <link>http://localhost:1313/tags/time-series-analysis/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/time-series-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regression</title>
+      <link>http://localhost:1313/tags/regression/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/regression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>http://localhost:1313/tags/dashboard/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dashboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dashboarding</title>
+      <link>http://localhost:1313/tags/dashboarding/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dashboarding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Modeling</title>
+      <link>http://localhost:1313/tags/data-modeling/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-modeling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ETL Process</title>
+      <link>http://localhost:1313/tags/etl-process/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/etl-process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excel</title>
+      <link>http://localhost:1313/tags/excel/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/excel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KPI Visualization</title>
+      <link>http://localhost:1313/tags/kpi-visualization/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kpi-visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PivotTables</title>
+      <link>http://localhost:1313/tags/pivottables/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pivottables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power BI</title>
+      <link>http://localhost:1313/tags/power-bi/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reporting</title>
+      <link>http://localhost:1313/tags/reporting/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reporting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualization</title>
+      <link>http://localhost:1313/tags/visualization/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Sheets</title>
+      <link>http://localhost:1313/tags/google-sheets/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/google-sheets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pivot Tables</title>
+      <link>http://localhost:1313/tags/pivot-tables/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pivot-tables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Cleaning</title>
+      <link>http://localhost:1313/tags/data-cleaning/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-cleaning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analytics</title>
+      <link>http://localhost:1313/tags/analytics/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hypothesis Testing</title>
+      <link>http://localhost:1313/tags/hypothesis-testing/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hypothesis-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/tags/statistics/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analysis</title>
+      <link>http://localhost:1313/tags/analysis/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EDA</title>
+      <link>http://localhost:1313/tags/eda/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/eda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL Server Management Studio</title>
+      <link>http://localhost:1313/tags/sql-server-management-studio/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sql-server-management-studio/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

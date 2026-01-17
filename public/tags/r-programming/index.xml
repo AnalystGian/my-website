@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Programming on AnalystGian</title>
+    <link>http://localhost:1313/tags/r-programming/</link>
+    <description>Recent content in R Programming on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/r-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DECISION TREE CLASSIFIER IN R</title>
+      <link>http://localhost:1313/analysis/decisiontreer/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/decisiontreer/</guid>
+      <description>&lt;p&gt;This project is designed for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell through decision trees.&#xA;It caters to your curiosity about building and interpreting decision tree classifiers, understanding the relationships and splits within your data, and evaluating&#xA;model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the concept of the decision tree algorithm&lt;/li&gt;&#xA;&lt;li&gt;Build decision tree models&lt;/li&gt;&#xA;&lt;li&gt;Evaluate the performance of the model&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIME SERIES ANALYSIS: Germany Inflation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-germanyinflationrate/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-germanyinflationrate/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.&lt;/p&gt;&#xA;&lt;p&gt;You can download the dataset in &lt;a href=&#34;https://www.statbureau.org/en/germany/inflation-tables&#34;&gt;statbureau&lt;/a&gt; website&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Germany inflation dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform seasonal decomposition to identify and understand seasonal patterns.&lt;/li&gt;&#xA;&lt;li&gt;Apply Seasonal ARIMA and Exponential Smoothing with ETS models for forecasting.&lt;/li&gt;&#xA;&lt;li&gt;Conduct time series cross-validation to evaluate and compare model performance.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIME SERIES ANALYSIS: Singapore Labor Force Participation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-singaporelaborforce/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-singaporelaborforce/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Gapminder dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Implement and analyze the Holt Linear Trend Model and Holt Linear Trend Model - Damped.&lt;/li&gt;&#xA;&lt;li&gt;Utilize the ARIMA model for forecasting and compare the performance of different models.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BUILDING STATISTICAL MODELS IN R</title>
+      <link>http://localhost:1313/analysis/statsmodelsr/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/statsmodelsr/</guid>
+      <description>&lt;p&gt;This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell.&#xA;It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data,&#xA;and evaluating model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build simple and multiple linear regression models&lt;/li&gt;&#xA;&lt;li&gt;Perform model assessment and interpretation of results&lt;/li&gt;&#xA;&lt;li&gt;Perform diagnostic checks to test for model assumptions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HYPOTHESIS TESTING IN R</title>
+      <link>http://localhost:1313/analysis/hypothesistestingr/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/hypothesistestingr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the basic concepts of hypothesis testing&lt;/li&gt;&#xA;&lt;li&gt;Perform different hypothesis tests for one and two samples&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: Getting Started&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Test for Proportions&lt;/li&gt;&#xA;&lt;li&gt;Task 3: Test for Means&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Two sample test for Proportions&lt;/li&gt;&#xA;&lt;li&gt;Task 5: Two sample test for Means&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Matched Samples&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/R.HypothesisTestingInR&#34;&gt;https://github.com/AnalystGian/R.HypothesisTestingInR&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>INTRODUCTION TO EDA IN R</title>
+      <link>http://localhost:1313/analysis/edainr/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/edainr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in unraveling the insights hidden within datasets. It caters to your curiosity about understanding data through visualization, statistical summaries, and uncovering patterns or anomalies.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform EDA by plotting qualitative variables&lt;/li&gt;&#xA;&lt;li&gt;Perform EDA by plotting quantitative variables&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: Getting Started&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Import &amp;amp; Explore Data sets&lt;/li&gt;&#xA;&lt;li&gt;Task 3: Plotting a categorical variable&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Plotting a numeric variable&lt;/li&gt;&#xA;&lt;li&gt;Task 5: Plotting a Numerical and Categorical Variable&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Plotting two variables&lt;/li&gt;&#xA;&lt;li&gt;Task 7: Plotting three variables - Wrap up&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/R.IntroductionToEDAInR&#34;&gt;https://github.com/AnalystGian/R.IntroductionToEDAInR&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CALCULATING DESCRIPTIVE STATISTICS IN R</title>
+      <link>http://localhost:1313/analysis/descriptivestatsr/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/descriptivestatsr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in data analysis, statistics, and programming in the R programming&#xA;language. Descriptive statistics involve summarizing and describing the main features of a dataset, such as central&#xA;tendency (mean, median, mode), dispersion (variance, standard deviation), and distribution (skewness, kurtosis). By&#xA;using R, a powerful statistical programming language, the project aims to provide a practical demonstration of how&#xA;to perform these calculations and analyze data. Therefore, the project is suitable for learners, analysts, researchers,&#xA;or anyone interested in gaining proficiency in statistical analysis and data manipulation using R.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

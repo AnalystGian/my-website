@@ -6,6 +6,231 @@
     <description>Recent content on AnalystGian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL DATETIME FINCTIONS</title>
+      <link>http://localhost:1313/sql/6/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/6/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in using SQL Date Time functions to perform data tidying, reporting and manipulation for database insights.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand how SQL Date Time functions works and when to use them&lt;/li&gt;&#xA;&lt;li&gt;Manipulate date-like data using different Date Time functions&lt;/li&gt;&#xA;&lt;li&gt;Manipulate data in tables using SQL SELECT statements together with Date Time functions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SQL WINDOW FUNCTIONS FOR ANALYTICS</title>
+      <link>http://localhost:1313/sql/5/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/5/</guid>
+      <description>&lt;p&gt;This project is for people who wants to use different SQL window functions to perform data aggregation, reporting, manipulation, and querying for database insights using the projectdb database.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand how SQL window functions work and how to use them&lt;/li&gt;&#xA;&lt;li&gt;Manipulate data in tables using SQL SELECT statements together with window functions&lt;/li&gt;&#xA;&lt;li&gt;Use different SQL windows to get database insights&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MASTERING SQL JOINS</title>
+      <link>http://localhost:1313/sql/4/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/4/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in manipulating data in a database, that is, retrieving data from a database to get summaries and insights using SQL.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Retrieve desired result set using the different types of joins in SQL&lt;/li&gt;&#xA;&lt;li&gt;Join more than two tables in a database using SQL Joins&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SQL CASE STATEMENTS</title>
+      <link>http://localhost:1313/sql/3/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/3/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in writing conditional statements and manipulating data in a database, that is retrieving data from a database to get insights using SQL.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the function of CASE statements in SQL&lt;/li&gt;&#xA;&lt;li&gt;Write simple CASE statements&lt;/li&gt;&#xA;&lt;li&gt;Write complex CASE statements&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: The SQL CASE statement&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Adding multiple conditions to a CASE statement&lt;/li&gt;&#xA;&lt;li&gt;Task 3: The CASE Statement and Aggregate Functions&lt;/li&gt;&#xA;&lt;li&gt;Task 4: The CASE Statement and SQL Joins&lt;/li&gt;&#xA;&lt;li&gt;Task 5: The CASE Statement together with Aggregate Functions and Joins&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Transposing data using the CASE clause&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/SQL_Projects/tree/main/Project3.%20SQL%20Case%20Statements&#34;&gt;https://github.com/AnalystGian/SQL_Projects/tree/main/Project3.%20SQL%20Case%20Statements&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PERFORMING DATA AGGREGATION USING SQL AGGREGATE FUNCTIONS</title>
+      <link>http://localhost:1313/sql/2/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/2/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in manipulating data in a database, that is,&#xA;retrieving data from a database to get summaries and insights using SQL.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Retrieve data as summaries from tables of a database using SQL aggregate functions.&lt;/li&gt;&#xA;&lt;li&gt;Understand how to set conditions on the result set of a query using the HAVING clause.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QUERYING DATABASES USING SELECT STATEMENTS</title>
+      <link>http://localhost:1313/sql/1/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/1/</guid>
+      <description>&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Retrieve data from tables of a database using SQL SELECT statement.&lt;/li&gt;&#xA;&lt;li&gt;Use different SQL operators together with the WHERE clause to set conditions on tables of a database for database manipulation.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: SELECT - FROM&lt;/li&gt;&#xA;&lt;li&gt;Task 2: SELECT - FROM AND WHERE&lt;/li&gt;&#xA;&lt;li&gt;Task 3: SQL Operators&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Wildcard Characters&lt;/li&gt;&#xA;&lt;li&gt;Task 5: SQL Operators - Part 2&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Other Comparison Operators&lt;/li&gt;&#xA;&lt;li&gt;Task 7: SELECT DISTINCT, ORDER BY, LIMIT, and SQL Aliases&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements&#34;&gt;https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DECISION TREE CLASSIFIER IN R</title>
+      <link>http://localhost:1313/analysis/decisiontreer/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/decisiontreer/</guid>
+      <description>&lt;p&gt;This project is designed for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell through decision trees.&#xA;It caters to your curiosity about building and interpreting decision tree classifiers, understanding the relationships and splits within your data, and evaluating&#xA;model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the concept of the decision tree algorithm&lt;/li&gt;&#xA;&lt;li&gt;Build decision tree models&lt;/li&gt;&#xA;&lt;li&gt;Evaluate the performance of the model&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIME SERIES ANALYSIS: Germany Inflation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-germanyinflationrate/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-germanyinflationrate/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.&lt;/p&gt;&#xA;&lt;p&gt;You can download the dataset in &lt;a href=&#34;https://www.statbureau.org/en/germany/inflation-tables&#34;&gt;statbureau&lt;/a&gt; website&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Germany inflation dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform seasonal decomposition to identify and understand seasonal patterns.&lt;/li&gt;&#xA;&lt;li&gt;Apply Seasonal ARIMA and Exponential Smoothing with ETS models for forecasting.&lt;/li&gt;&#xA;&lt;li&gt;Conduct time series cross-validation to evaluate and compare model performance.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIME SERIES ANALYSIS: Singapore Labor Force Participation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-singaporelaborforce/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-singaporelaborforce/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Gapminder dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Implement and analyze the Holt Linear Trend Model and Holt Linear Trend Model - Damped.&lt;/li&gt;&#xA;&lt;li&gt;Utilize the ARIMA model for forecasting and compare the performance of different models.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BUILDING STATISTICAL MODELS IN R</title>
+      <link>http://localhost:1313/analysis/statsmodelsr/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/statsmodelsr/</guid>
+      <description>&lt;p&gt;This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell.&#xA;It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data,&#xA;and evaluating model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build simple and multiple linear regression models&lt;/li&gt;&#xA;&lt;li&gt;Perform model assessment and interpretation of results&lt;/li&gt;&#xA;&lt;li&gt;Perform diagnostic checks to test for model assumptions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/coffeesalesda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/coffeesalesda/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/excel/10/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/10/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES VISUALIZATION</title>
+      <link>http://localhost:1313/vizz/coffeesalesda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/coffeesalesda/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MARKET DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/marketda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/marketda/</guid>
+      <description>&lt;p&gt;This project analyzes, connecting and shaping the data,&#xA;building a relational model, adding calculated fields, and designing an interactive report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report, metrics and KPI&amp;rsquo;s.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MARKET DATA ANALYSIS</title>
+      <link>http://localhost:1313/vizz/marketda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/marketda/</guid>
+      <description>&lt;p&gt;This project analyzes, connecting and shaping the data,&#xA;building a relational model, adding calculated fields, and designing an interactive report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report, metrics and KPI&amp;rsquo;s.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TOY STORE ANALYSIS</title>
+      <link>http://localhost:1313/analysis/toystoreda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/toystoreda/</guid>
+      <description>&lt;p&gt;This project analyzes historical toy data to track key metrics,&#xA;explore high-level trends, and build a simple but interactive KPI report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables,&#xA;creating simple hierarchies, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report to show orders, revenue and profit over time and by product category.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TOY STORE KPI VISUALIZATION</title>
+      <link>http://localhost:1313/vizz/toystoreda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/toystoreda/</guid>
+      <description>&lt;p&gt;This project analyzes historical toy data to track key metrics,&#xA;explore high-level trends, and build a simple but interactive KPI report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables,&#xA;creating simple hierarchies, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report to show orders, revenue and profit over time and by product category.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SPECIALIZED CHARTS</title>
+      <link>http://localhost:1313/excel/8/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/8/</guid>
+      <description>&lt;p&gt;This project is for those looking to master the utilization of specialized charts in Excel for comprehensive analysis,&#xA;enabling users to create tailored visualizations that effectively communicate complex data insights.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Adapt standard charts to create unique visualizations&lt;/li&gt;&#xA;&lt;li&gt;Create Waterfall and Funnel Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 2 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Summary data&lt;/li&gt;&#xA;&lt;li&gt;Dashboard&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the charts used in this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;SUNBURST CHART&lt;/li&gt;&#xA;&lt;li&gt;UNIQUE BAR CHART&lt;/li&gt;&#xA;&lt;li&gt;WATERFALL CHART&lt;/li&gt;&#xA;&lt;li&gt;GAUGE CHART&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/2.3.EXCEL-Specialized-Charts&#34;&gt;https://github.com/AnalystGian/2.3.EXCEL-Specialized-Charts&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MASTERING CHARTING TECHNIQUES</title>
+      <link>http://localhost:1313/excel/7/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/7/</guid>
+      <description>&lt;p&gt;This project is for people who want to leverage Excel for proficient visualization.&#xA;This equips users to create effective charts for informed decision-making.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Create line, column, area, pie, donut charts and scatter plots&lt;/li&gt;&#xA;&lt;li&gt;Select charts suitable for purpose&lt;/li&gt;&#xA;&lt;li&gt;Develop a range of charting techniques to tell good data stories&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 4 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Dashboard&lt;/li&gt;&#xA;&lt;li&gt;Covid-19 Daily Cases&lt;/li&gt;&#xA;&lt;li&gt;Covid-19 Deaths&lt;/li&gt;&#xA;&lt;li&gt;Covid-19 Cases by Country&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the charts used in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/officechairsda/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/officechairsda/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/excel/9/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/9/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/vizz/officechairsda/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/officechairsda/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DATA VIZZ USING CONDITIONAL FORMATTING, SPARKLINES, AND NUMBER FORMATS</title>
+      <link>http://localhost:1313/excel/6/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/6/</guid>
+      <description>&lt;p&gt;This project is for people who want to enhance their data visualization skills using conditional formatting,&#xA;sparklines, and number formats to provide valuable insights and practical techniques.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand how custom number formats can be used as a visualization tool&lt;/li&gt;&#xA;&lt;li&gt;Apply a range of conditional formats to identify data trends, categories, and anomalies&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Visualization&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the functions used in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LOGICAL AND LOOKUP FUNCTIONS</title>
+      <link>http://localhost:1313/excel/5/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/5/</guid>
+      <description>&lt;p&gt;This project is structured to enhance your Excel proficiency through&#xA;mastering conditional logic and automating lookups, advancing your&#xA;data analytics capabilities!&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply logical functions to correct or transform data.&lt;/li&gt;&#xA;&lt;li&gt;Employ a range of logical functions to automate performing different operations.&lt;/li&gt;&#xA;&lt;li&gt;Understand how lookup functions can be used to categorise data.&lt;/li&gt;&#xA;&lt;li&gt;Solve a variety of problems using lookup functions to match data from different sources.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 5 sheets:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TABLES FOR AUTOMATING DATA MANIPULATION</title>
+      <link>http://localhost:1313/excel/4/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/4/</guid>
+      <description>&lt;p&gt;This project is tailored for mastering Excel&amp;rsquo;s table features,&#xA;enabling efficient data management and automated processes.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Convert a range to a table and work effectively with the table.&lt;/li&gt;&#xA;&lt;li&gt;Use structured referencing.&lt;/li&gt;&#xA;&lt;li&gt;Perform table calculations.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Cleaned data&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the skills/tools shown in this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CONVERTING TO TABLES&lt;/li&gt;&#xA;&lt;li&gt;CUSTOMIZING, SORTING AND FILTERING TABLES&lt;/li&gt;&#xA;&lt;li&gt;TABLE CALCULATIONS (SUM, SUMIFS, COUNTIFS)&lt;/li&gt;&#xA;&lt;li&gt;STRUCTURED REFERENCING&lt;/li&gt;&#xA;&lt;li&gt;ADDING SLICERS&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/1.4.EXCEL-Tables-for-Automating-Data-Manipulation&#34;&gt;https://github.com/AnalystGian/1.4.EXCEL-Tables-for-Automating-Data-Manipulation&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DEFINED NAMES FOR WORKING MOFE EFFECTIVELY WITH DATA</title>
+      <link>http://localhost:1313/excel/3/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/3/</guid>
+      <description>&lt;p&gt;This project is designed for individuals eager to master Excel&amp;rsquo;s cell referencing and naming techniques&#xA;for streamlining formulas and automating processes efficiently.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Demonstrate a range of methods for creating Named Ranges.&lt;/li&gt;&#xA;&lt;li&gt;Modify workbooks to use Named Ranges.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Cleaned data&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the skills/tools shown in this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CELL REFERENCING (RELATIVE, ABSOLUTE, MIXED)&lt;/li&gt;&#xA;&lt;li&gt;NAMED RANGES(DEFINE NAME, CREATE FROM SLECTION, NAME BOX, NAME MANAGER)&lt;/li&gt;&#xA;&lt;li&gt;SUM&lt;/li&gt;&#xA;&lt;li&gt;SUMIFS&lt;/li&gt;&#xA;&lt;li&gt;AVERAGEIFS&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/1.3.EXCEL-Defined-Names-for-working-more-effectively-with-data&#34;&gt;https://github.com/AnalystGian/1.3.EXCEL-Defined-Names-for-working-more-effectively-with-data&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WORKING WITH NUMBERS AND DATES</title>
+      <link>http://localhost:1313/excel/2/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/2/</guid>
+      <description>&lt;p&gt;This project is tailored for individuals keen on mastering Excel&amp;rsquo;s Date and Number functions&#xA;to extract insights and manipulate data effectively.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply a range of functions for converting data to different data types.&lt;/li&gt;&#xA;&lt;li&gt;Formulate calculations using more advanced date functions.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Cleaned data&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the functions used in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CLEANING AND MANIPULATING TEXT</title>
+      <link>http://localhost:1313/excel/1/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/1/</guid>
+      <description>&lt;p&gt;This project is designed for individuals eager to master Excel&amp;rsquo;s Text functions&#xA;for extracting insights and manipulating data effectively.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply a range of text functions to manipulate and restructure data.&lt;/li&gt;&#xA;&lt;li&gt;Solve issues of removing and replacing unwanted characters.&lt;/li&gt;&#xA;&lt;li&gt;Develop confidence working with advanced formula techniques and nested functions.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Cleaned data&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the functions used in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HYPOTHESIS TESTING IN R</title>
+      <link>http://localhost:1313/analysis/hypothesistestingr/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/hypothesistestingr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the basic concepts of hypothesis testing&lt;/li&gt;&#xA;&lt;li&gt;Perform different hypothesis tests for one and two samples&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: Getting Started&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Test for Proportions&lt;/li&gt;&#xA;&lt;li&gt;Task 3: Test for Means&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Two sample test for Proportions&lt;/li&gt;&#xA;&lt;li&gt;Task 5: Two sample test for Means&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Matched Samples&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/R.HypothesisTestingInR&#34;&gt;https://github.com/AnalystGian/R.HypothesisTestingInR&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>INTRODUCTION TO EDA IN R</title>
+      <link>http://localhost:1313/analysis/edainr/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/edainr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in unraveling the insights hidden within datasets. It caters to your curiosity about understanding data through visualization, statistical summaries, and uncovering patterns or anomalies.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform EDA by plotting qualitative variables&lt;/li&gt;&#xA;&lt;li&gt;Perform EDA by plotting quantitative variables&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: Getting Started&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Import &amp;amp; Explore Data sets&lt;/li&gt;&#xA;&lt;li&gt;Task 3: Plotting a categorical variable&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Plotting a numeric variable&lt;/li&gt;&#xA;&lt;li&gt;Task 5: Plotting a Numerical and Categorical Variable&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Plotting two variables&lt;/li&gt;&#xA;&lt;li&gt;Task 7: Plotting three variables - Wrap up&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/R.IntroductionToEDAInR&#34;&gt;https://github.com/AnalystGian/R.IntroductionToEDAInR&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CALCULATING DESCRIPTIVE STATISTICS IN R</title>
+      <link>http://localhost:1313/analysis/descriptivestatsr/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/descriptivestatsr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in data analysis, statistics, and programming in the R programming&#xA;language. Descriptive statistics involve summarizing and describing the main features of a dataset, such as central&#xA;tendency (mean, median, mode), dispersion (variance, standard deviation), and distribution (skewness, kurtosis). By&#xA;using R, a powerful statistical programming language, the project aims to provide a practical demonstration of how&#xA;to perform these calculations and analyze data. Therefore, the project is suitable for learners, analysts, researchers,&#xA;or anyone interested in gaining proficiency in statistical analysis and data manipulation using R.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CYCLISTIC BIKESHARE DATA CLEANING PROJECT</title>
+      <link>http://localhost:1313/analysis/bikeshare-data/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/bikeshare-data/</guid>
+      <description>&lt;p&gt;This project focuses on cleaning and preparing the Cyclistic Bikeshare dataset for further analysis. The dataset contains information about bike trips, including usertypes, trip details, and timestamp information&lt;/p&gt;&#xA;&lt;p&gt;STEPS:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Data Importing and Loading: Imported and loaded raw data from the provided dataset into a SQL Server database for analysis.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Data Cleaning: Handling Duplicates and Missing Values if any: In this step, I addressed missing values in relevant Deleting Rows: Removed rows with a &amp;ldquo;to station name&amp;rdquo; that is marked as out of circulation due to quality control. Renaming Columns:Renamed columns for clarity and consistency in naming conventions. Creating Derived Columns: Derived new columns such as day, month, and year from timestamp data for better analysis. Seasonal Classification: Added a new column &amp;ldquo;Season&amp;rdquo; based on the start month to categorize trips into seasons (e.g., Winter, Spring).&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

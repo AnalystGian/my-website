@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on AnalystGian</title>
+    <link>http://localhost:1313/tags/ml/</link>
+    <description>Recent content in ML on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DECISION TREE CLASSIFIER IN R</title>
+      <link>http://localhost:1313/analysis/decisiontreer/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/decisiontreer/</guid>
+      <description>&lt;p&gt;This project is designed for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell through decision trees.&#xA;It caters to your curiosity about building and interpreting decision tree classifiers, understanding the relationships and splits within your data, and evaluating&#xA;model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the concept of the decision tree algorithm&lt;/li&gt;&#xA;&lt;li&gt;Build decision tree models&lt;/li&gt;&#xA;&lt;li&gt;Evaluate the performance of the model&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BUILDING STATISTICAL MODELS IN R</title>
+      <link>http://localhost:1313/analysis/statsmodelsr/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/statsmodelsr/</guid>
+      <description>&lt;p&gt;This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell.&#xA;It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data,&#xA;and evaluating model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build simple and multiple linear regression models&lt;/li&gt;&#xA;&lt;li&gt;Perform model assessment and interpretation of results&lt;/li&gt;&#xA;&lt;li&gt;Perform diagnostic checks to test for model assumptions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

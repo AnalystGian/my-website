@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series Analysis on AnalystGian</title>
+    <link>http://localhost:1313/tags/time-series-analysis/</link>
+    <description>Recent content in Time Series Analysis on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/time-series-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIME SERIES ANALYSIS: Germany Inflation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-germanyinflationrate/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-germanyinflationrate/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.&lt;/p&gt;&#xA;&lt;p&gt;You can download the dataset in &lt;a href=&#34;https://www.statbureau.org/en/germany/inflation-tables&#34;&gt;statbureau&lt;/a&gt; website&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Germany inflation dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform seasonal decomposition to identify and understand seasonal patterns.&lt;/li&gt;&#xA;&lt;li&gt;Apply Seasonal ARIMA and Exponential Smoothing with ETS models for forecasting.&lt;/li&gt;&#xA;&lt;li&gt;Conduct time series cross-validation to evaluate and compare model performance.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIME SERIES ANALYSIS: Singapore Labor Force Participation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-singaporelaborforce/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-singaporelaborforce/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Gapminder dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Implement and analyze the Holt Linear Trend Model and Holt Linear Trend Model - Damped.&lt;/li&gt;&#xA;&lt;li&gt;Utilize the ARIMA model for forecasting and compare the performance of different models.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel on AnalystGian</title>
+    <link>http://localhost:1313/tags/excel/</link>
+    <description>Recent content in Excel on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/coffeesalesda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/coffeesalesda/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/excel/10/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/10/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES VISUALIZATION</title>
+      <link>http://localhost:1313/vizz/coffeesalesda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/coffeesalesda/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SPECIALIZED CHARTS</title>
+      <link>http://localhost:1313/excel/8/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/8/</guid>
+      <description>&lt;p&gt;This project is for those looking to master the utilization of specialized charts in Excel for comprehensive analysis,&#xA;enabling users to create tailored visualizations that effectively communicate complex data insights.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Adapt standard charts to create unique visualizations&lt;/li&gt;&#xA;&lt;li&gt;Create Waterfall and Funnel Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 2 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Summary data&lt;/li&gt;&#xA;&lt;li&gt;Dashboard&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the charts used in this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;SUNBURST CHART&lt;/li&gt;&#xA;&lt;li&gt;UNIQUE BAR CHART&lt;/li&gt;&#xA;&lt;li&gt;WATERFALL CHART&lt;/li&gt;&#xA;&lt;li&gt;GAUGE CHART&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/2.3.EXCEL-Specialized-Charts&#34;&gt;https://github.com/AnalystGian/2.3.EXCEL-Specialized-Charts&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MASTERING CHARTING TECHNIQUES</title>
+      <link>http://localhost:1313/excel/7/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/7/</guid>
+      <description>&lt;p&gt;This project is for people who want to leverage Excel for proficient visualization.&#xA;This equips users to create effective charts for informed decision-making.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Create line, column, area, pie, donut charts and scatter plots&lt;/li&gt;&#xA;&lt;li&gt;Select charts suitable for purpose&lt;/li&gt;&#xA;&lt;li&gt;Develop a range of charting techniques to tell good data stories&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 4 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Dashboard&lt;/li&gt;&#xA;&lt;li&gt;Covid-19 Daily Cases&lt;/li&gt;&#xA;&lt;li&gt;Covid-19 Deaths&lt;/li&gt;&#xA;&lt;li&gt;Covid-19 Cases by Country&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the charts used in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/officechairsda/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/officechairsda/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/excel/9/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/9/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/vizz/officechairsda/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/officechairsda/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DATA VIZZ USING CONDITIONAL FORMATTING, SPARKLINES, AND NUMBER FORMATS</title>
+      <link>http://localhost:1313/excel/6/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/6/</guid>
+      <description>&lt;p&gt;This project is for people who want to enhance their data visualization skills using conditional formatting,&#xA;sparklines, and number formats to provide valuable insights and practical techniques.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand how custom number formats can be used as a visualization tool&lt;/li&gt;&#xA;&lt;li&gt;Apply a range of conditional formats to identify data trends, categories, and anomalies&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Visualization&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the functions used in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LOGICAL AND LOOKUP FUNCTIONS</title>
+      <link>http://localhost:1313/excel/5/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/5/</guid>
+      <description>&lt;p&gt;This project is structured to enhance your Excel proficiency through&#xA;mastering conditional logic and automating lookups, advancing your&#xA;data analytics capabilities!&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply logical functions to correct or transform data.&lt;/li&gt;&#xA;&lt;li&gt;Employ a range of logical functions to automate performing different operations.&lt;/li&gt;&#xA;&lt;li&gt;Understand how lookup functions can be used to categorise data.&lt;/li&gt;&#xA;&lt;li&gt;Solve a variety of problems using lookup functions to match data from different sources.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 5 sheets:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TABLES FOR AUTOMATING DATA MANIPULATION</title>
+      <link>http://localhost:1313/excel/4/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/4/</guid>
+      <description>&lt;p&gt;This project is tailored for mastering Excel&amp;rsquo;s table features,&#xA;enabling efficient data management and automated processes.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Convert a range to a table and work effectively with the table.&lt;/li&gt;&#xA;&lt;li&gt;Use structured referencing.&lt;/li&gt;&#xA;&lt;li&gt;Perform table calculations.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Cleaned data&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the skills/tools shown in this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CONVERTING TO TABLES&lt;/li&gt;&#xA;&lt;li&gt;CUSTOMIZING, SORTING AND FILTERING TABLES&lt;/li&gt;&#xA;&lt;li&gt;TABLE CALCULATIONS (SUM, SUMIFS, COUNTIFS)&lt;/li&gt;&#xA;&lt;li&gt;STRUCTURED REFERENCING&lt;/li&gt;&#xA;&lt;li&gt;ADDING SLICERS&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/1.4.EXCEL-Tables-for-Automating-Data-Manipulation&#34;&gt;https://github.com/AnalystGian/1.4.EXCEL-Tables-for-Automating-Data-Manipulation&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DEFINED NAMES FOR WORKING MOFE EFFECTIVELY WITH DATA</title>
+      <link>http://localhost:1313/excel/3/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/3/</guid>
+      <description>&lt;p&gt;This project is designed for individuals eager to master Excel&amp;rsquo;s cell referencing and naming techniques&#xA;for streamlining formulas and automating processes efficiently.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Demonstrate a range of methods for creating Named Ranges.&lt;/li&gt;&#xA;&lt;li&gt;Modify workbooks to use Named Ranges.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Cleaned data&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the skills/tools shown in this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CELL REFERENCING (RELATIVE, ABSOLUTE, MIXED)&lt;/li&gt;&#xA;&lt;li&gt;NAMED RANGES(DEFINE NAME, CREATE FROM SLECTION, NAME BOX, NAME MANAGER)&lt;/li&gt;&#xA;&lt;li&gt;SUM&lt;/li&gt;&#xA;&lt;li&gt;SUMIFS&lt;/li&gt;&#xA;&lt;li&gt;AVERAGEIFS&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/1.3.EXCEL-Defined-Names-for-working-more-effectively-with-data&#34;&gt;https://github.com/AnalystGian/1.3.EXCEL-Defined-Names-for-working-more-effectively-with-data&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WORKING WITH NUMBERS AND DATES</title>
+      <link>http://localhost:1313/excel/2/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/2/</guid>
+      <description>&lt;p&gt;This project is tailored for individuals keen on mastering Excel&amp;rsquo;s Date and Number functions&#xA;to extract insights and manipulate data effectively.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply a range of functions for converting data to different data types.&lt;/li&gt;&#xA;&lt;li&gt;Formulate calculations using more advanced date functions.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Cleaned data&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the functions used in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CLEANING AND MANIPULATING TEXT</title>
+      <link>http://localhost:1313/excel/1/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/1/</guid>
+      <description>&lt;p&gt;This project is designed for individuals eager to master Excel&amp;rsquo;s Text functions&#xA;for extracting insights and manipulating data effectively.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply a range of text functions to manipulate and restructure data.&lt;/li&gt;&#xA;&lt;li&gt;Solve issues of removing and replacing unwanted characters.&lt;/li&gt;&#xA;&lt;li&gt;Develop confidence working with advanced formula techniques and nested functions.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Excel file includes 3 sheets:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data&lt;/li&gt;&#xA;&lt;li&gt;Step by step process&lt;/li&gt;&#xA;&lt;li&gt;Cleaned data&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the functions used in this project:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

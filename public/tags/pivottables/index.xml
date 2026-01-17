@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PivotTables on AnalystGian</title>
+    <link>http://localhost:1313/tags/pivottables/</link>
+    <description>Recent content in PivotTables on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pivottables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/coffeesalesda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/coffeesalesda/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/excel/10/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/excel/10/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES VISUALIZATION</title>
+      <link>http://localhost:1313/vizz/coffeesalesda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/coffeesalesda/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

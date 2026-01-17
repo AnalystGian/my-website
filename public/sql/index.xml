@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sqls on AnalystGian</title>
+    <link>http://localhost:1313/sql/</link>
+    <description>Recent content in Sqls on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL DATETIME FINCTIONS</title>
+      <link>http://localhost:1313/sql/6/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/6/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in using SQL Date Time functions to perform data tidying, reporting and manipulation for database insights.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand how SQL Date Time functions works and when to use them&lt;/li&gt;&#xA;&lt;li&gt;Manipulate date-like data using different Date Time functions&lt;/li&gt;&#xA;&lt;li&gt;Manipulate data in tables using SQL SELECT statements together with Date Time functions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SQL WINDOW FUNCTIONS FOR ANALYTICS</title>
+      <link>http://localhost:1313/sql/5/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/5/</guid>
+      <description>&lt;p&gt;This project is for people who wants to use different SQL window functions to perform data aggregation, reporting, manipulation, and querying for database insights using the projectdb database.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand how SQL window functions work and how to use them&lt;/li&gt;&#xA;&lt;li&gt;Manipulate data in tables using SQL SELECT statements together with window functions&lt;/li&gt;&#xA;&lt;li&gt;Use different SQL windows to get database insights&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MASTERING SQL JOINS</title>
+      <link>http://localhost:1313/sql/4/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/4/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in manipulating data in a database, that is, retrieving data from a database to get summaries and insights using SQL.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Retrieve desired result set using the different types of joins in SQL&lt;/li&gt;&#xA;&lt;li&gt;Join more than two tables in a database using SQL Joins&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SQL CASE STATEMENTS</title>
+      <link>http://localhost:1313/sql/3/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/3/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in writing conditional statements and manipulating data in a database, that is retrieving data from a database to get insights using SQL.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the function of CASE statements in SQL&lt;/li&gt;&#xA;&lt;li&gt;Write simple CASE statements&lt;/li&gt;&#xA;&lt;li&gt;Write complex CASE statements&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: The SQL CASE statement&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Adding multiple conditions to a CASE statement&lt;/li&gt;&#xA;&lt;li&gt;Task 3: The CASE Statement and Aggregate Functions&lt;/li&gt;&#xA;&lt;li&gt;Task 4: The CASE Statement and SQL Joins&lt;/li&gt;&#xA;&lt;li&gt;Task 5: The CASE Statement together with Aggregate Functions and Joins&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Transposing data using the CASE clause&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/SQL_Projects/tree/main/Project3.%20SQL%20Case%20Statements&#34;&gt;https://github.com/AnalystGian/SQL_Projects/tree/main/Project3.%20SQL%20Case%20Statements&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PERFORMING DATA AGGREGATION USING SQL AGGREGATE FUNCTIONS</title>
+      <link>http://localhost:1313/sql/2/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/2/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in manipulating data in a database, that is,&#xA;retrieving data from a database to get summaries and insights using SQL.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Retrieve data as summaries from tables of a database using SQL aggregate functions.&lt;/li&gt;&#xA;&lt;li&gt;Understand how to set conditions on the result set of a query using the HAVING clause.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QUERYING DATABASES USING SELECT STATEMENTS</title>
+      <link>http://localhost:1313/sql/1/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/1/</guid>
+      <description>&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Retrieve data from tables of a database using SQL SELECT statement.&lt;/li&gt;&#xA;&lt;li&gt;Use different SQL operators together with the WHERE clause to set conditions on tables of a database for database manipulation.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: SELECT - FROM&lt;/li&gt;&#xA;&lt;li&gt;Task 2: SELECT - FROM AND WHERE&lt;/li&gt;&#xA;&lt;li&gt;Task 3: SQL Operators&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Wildcard Characters&lt;/li&gt;&#xA;&lt;li&gt;Task 5: SQL Operators - Part 2&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Other Comparison Operators&lt;/li&gt;&#xA;&lt;li&gt;Task 7: SELECT DISTINCT, ORDER BY, LIMIT, and SQL Aliases&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements&#34;&gt;https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

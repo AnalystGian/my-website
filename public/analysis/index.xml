@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analyses on AnalystGian</title>
+    <link>http://localhost:1313/analysis/</link>
+    <description>Recent content in Analyses on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DECISION TREE CLASSIFIER IN R</title>
+      <link>http://localhost:1313/analysis/decisiontreer/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/decisiontreer/</guid>
+      <description>&lt;p&gt;This project is designed for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell through decision trees.&#xA;It caters to your curiosity about building and interpreting decision tree classifiers, understanding the relationships and splits within your data, and evaluating&#xA;model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the concept of the decision tree algorithm&lt;/li&gt;&#xA;&lt;li&gt;Build decision tree models&lt;/li&gt;&#xA;&lt;li&gt;Evaluate the performance of the model&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIME SERIES ANALYSIS: Germany Inflation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-germanyinflationrate/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-germanyinflationrate/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.&lt;/p&gt;&#xA;&lt;p&gt;You can download the dataset in &lt;a href=&#34;https://www.statbureau.org/en/germany/inflation-tables&#34;&gt;statbureau&lt;/a&gt; website&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Germany inflation dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform seasonal decomposition to identify and understand seasonal patterns.&lt;/li&gt;&#xA;&lt;li&gt;Apply Seasonal ARIMA and Exponential Smoothing with ETS models for forecasting.&lt;/li&gt;&#xA;&lt;li&gt;Conduct time series cross-validation to evaluate and compare model performance.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIME SERIES ANALYSIS: Singapore Labor Force Participation Rate</title>
+      <link>http://localhost:1313/analysis/timeseries-singaporelaborforce/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/timeseries-singaporelaborforce/</guid>
+      <description>&lt;p&gt;This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Import and preprocess the Gapminder dataset for time series analysis.&lt;/li&gt;&#xA;&lt;li&gt;Implement and analyze the Holt Linear Trend Model and Holt Linear Trend Model - Damped.&lt;/li&gt;&#xA;&lt;li&gt;Utilize the ARIMA model for forecasting and compare the performance of different models.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BUILDING STATISTICAL MODELS IN R</title>
+      <link>http://localhost:1313/analysis/statsmodelsr/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/statsmodelsr/</guid>
+      <description>&lt;p&gt;This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell.&#xA;It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data,&#xA;and evaluating model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build simple and multiple linear regression models&lt;/li&gt;&#xA;&lt;li&gt;Perform model assessment and interpretation of results&lt;/li&gt;&#xA;&lt;li&gt;Perform diagnostic checks to test for model assumptions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COFFEE SALES DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/coffeesalesda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/coffeesalesda/</guid>
+      <description>&lt;p&gt;This project analyzes the data and transform into a dynamic dashboard&#xA;that owners can use to identify patterns, trends, and opportunities for the business.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Explore the dataset, and prepare the data for analysis.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables to analyze time series and product-level trends.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data with Pivot Charts&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coffee Shop Sales Raw (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Coffee Shop Sales (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Report (pptx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below are the steps done in this project:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MARKET DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/marketda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/marketda/</guid>
+      <description>&lt;p&gt;This project analyzes, connecting and shaping the data,&#xA;building a relational model, adding calculated fields, and designing an interactive report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report, metrics and KPI&amp;rsquo;s.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TOY STORE ANALYSIS</title>
+      <link>http://localhost:1313/analysis/toystoreda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/toystoreda/</guid>
+      <description>&lt;p&gt;This project analyzes historical toy data to track key metrics,&#xA;explore high-level trends, and build a simple but interactive KPI report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables,&#xA;creating simple hierarchies, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report to show orders, revenue and profit over time and by product category.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OFFICE CHAIRS DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/officechairsda/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/officechairsda/</guid>
+      <description>&lt;p&gt;This project analyzes historical sales data alongside customer information&#xA;to identify regional sales trends, popular product models, and customer preferences.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data analysis using sorting and filtering tools.&lt;/li&gt;&#xA;&lt;li&gt;Perform data mining using the IF function.&lt;/li&gt;&#xA;&lt;li&gt;Create references between tables and search for information with VLOOKUP.&lt;/li&gt;&#xA;&lt;li&gt;Perform data analysis using PivotTables.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This project includes files:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sales Data Analysis (xlsx)&lt;/li&gt;&#xA;&lt;li&gt;Analysis Description (docx)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;below-are-the-steps-done-in-this-project&#34;&gt;Below are the steps done in this project:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1. Convert range to a table&lt;/li&gt;&#xA;&lt;li&gt;Task 2. QA &amp;amp; Data Profiling - Sorting and Filtering&lt;/li&gt;&#xA;&lt;li&gt;Task 3. Data Mining&lt;/li&gt;&#xA;&lt;li&gt;Task 4. Data Transformation&lt;/li&gt;&#xA;&lt;li&gt;Task 5. Data Analysis with PivotTables&lt;/li&gt;&#xA;&lt;li&gt;Task 6. Creates Dashboard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&#34;&gt;https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HYPOTHESIS TESTING IN R</title>
+      <link>http://localhost:1313/analysis/hypothesistestingr/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/hypothesistestingr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Understand the basic concepts of hypothesis testing&lt;/li&gt;&#xA;&lt;li&gt;Perform different hypothesis tests for one and two samples&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: Getting Started&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Test for Proportions&lt;/li&gt;&#xA;&lt;li&gt;Task 3: Test for Means&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Two sample test for Proportions&lt;/li&gt;&#xA;&lt;li&gt;Task 5: Two sample test for Means&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Matched Samples&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/R.HypothesisTestingInR&#34;&gt;https://github.com/AnalystGian/R.HypothesisTestingInR&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>INTRODUCTION TO EDA IN R</title>
+      <link>http://localhost:1313/analysis/edainr/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/edainr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in unraveling the insights hidden within datasets. It caters to your curiosity about understanding data through visualization, statistical summaries, and uncovering patterns or anomalies.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform EDA by plotting qualitative variables&lt;/li&gt;&#xA;&lt;li&gt;Perform EDA by plotting quantitative variables&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: Getting Started&lt;/li&gt;&#xA;&lt;li&gt;Task 2: Import &amp;amp; Explore Data sets&lt;/li&gt;&#xA;&lt;li&gt;Task 3: Plotting a categorical variable&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Plotting a numeric variable&lt;/li&gt;&#xA;&lt;li&gt;Task 5: Plotting a Numerical and Categorical Variable&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Plotting two variables&lt;/li&gt;&#xA;&lt;li&gt;Task 7: Plotting three variables - Wrap up&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/R.IntroductionToEDAInR&#34;&gt;https://github.com/AnalystGian/R.IntroductionToEDAInR&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CALCULATING DESCRIPTIVE STATISTICS IN R</title>
+      <link>http://localhost:1313/analysis/descriptivestatsr/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/descriptivestatsr/</guid>
+      <description>&lt;p&gt;This project is for people who are interested in data analysis, statistics, and programming in the R programming&#xA;language. Descriptive statistics involve summarizing and describing the main features of a dataset, such as central&#xA;tendency (mean, median, mode), dispersion (variance, standard deviation), and distribution (skewness, kurtosis). By&#xA;using R, a powerful statistical programming language, the project aims to provide a practical demonstration of how&#xA;to perform these calculations and analyze data. Therefore, the project is suitable for learners, analysts, researchers,&#xA;or anyone interested in gaining proficiency in statistical analysis and data manipulation using R.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CYCLISTIC BIKESHARE DATA CLEANING PROJECT</title>
+      <link>http://localhost:1313/analysis/bikeshare-data/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/bikeshare-data/</guid>
+      <description>&lt;p&gt;This project focuses on cleaning and preparing the Cyclistic Bikeshare dataset for further analysis. The dataset contains information about bike trips, including usertypes, trip details, and timestamp information&lt;/p&gt;&#xA;&lt;p&gt;STEPS:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Data Importing and Loading: Imported and loaded raw data from the provided dataset into a SQL Server database for analysis.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Data Cleaning: Handling Duplicates and Missing Values if any: In this step, I addressed missing values in relevant Deleting Rows: Removed rows with a &amp;ldquo;to station name&amp;rdquo; that is marked as out of circulation due to quality control. Renaming Columns:Renamed columns for clarity and consistency in naming conventions. Creating Derived Columns: Derived new columns such as day, month, and year from timestamp data for better analysis. Seasonal Classification: Added a new column &amp;ldquo;Season&amp;rdquo; based on the start month to categorize trips into seasons (e.g., Winter, Spring).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

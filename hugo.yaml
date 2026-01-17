@@ -26,7 +26,7 @@ enableRobotsTXT: true
     #shortname: your-disqus-shortname
 
 pagination:
-  pagerSize: 3
+  pagerSize: 6
 
 markup:
   goldmark:
@@ -35,42 +35,63 @@ markup:
 
 Menus:
   main:
-    - identifier: about
-      name: About Me
-      url: "#about"
-      weight: 1
+    # - identifier: about
+    #   name: About Me
+    #   url: "#about"
+    #   weight: 1
+    #
+    # - identifier: analysis
+    #   name: Analysis
+    #   url: "#analysisProjects"
+    #   weight: 2
+    #
+    # - identifier: excel
+    #   name: Excel
+    #   url: "#excelProjects"
+    #   weight: 3
+    #
+    # - identifier: sql
+    #   name: SQL
+    #   url: "#sqlProjects"
+    #   weight: 4
+    #
+    # - identifier: vizz
+    #   name: Vizz
+    #   url: "#vizzProjects"
+    #   weight: 5
+    #
+    #
+    # - identifier: achievements
+    #   name: Achievements
+    #   url: "#achievements"
+    #   weight: 6
+    #
+    #
+    # - identifier: contact
+    #   name: Contact
+    #   url: "#contact"
+    #   weight: 7
 
     - identifier: analysis
       name: Analysis
-      url: "#analysisProjects"
-      weight: 2
-
+      title: Analysis Projects
+      url: /analysis
+      weight: 1
     - identifier: excel
       name: Excel
-      url: "#excelProjects"
-      weight: 3
-
+      title: Excel Projects
+      url: /excel
+      weight: 2
     - identifier: sql
       name: SQL
-      url: "#sqlProjects"
-      weight: 4
-
+      title: SQL Projects
+      url: /sql
+      weight: 3
     - identifier: vizz
       name: Vizz
-      url: "#vizzProjects"
-      weight: 5
-
-
-    - identifier: achievements
-      name: Achievements
-      url: "#achievements"
-      weight: 6
-
-
-    - identifier: contact
-      name: Contact
-      url: "#contact"
-      weight: 7
+      title: Vizz Projects
+      url: /vizz
+      weight: 4
 
 
     #- identifier: blog
@@ -166,12 +187,12 @@ params:
       showOnScrollUp : true
     enableSeparator: false
     menus:
-      disableAbout: true
+      disableAbout: false
       disableExperience: true
       disableEducation: true
       disableProjects: true
-      disableAchievements: true
-      disableContact: true
+      disableAchievements: false
+      disableContact: false
 
   # Hero
   hero:
@@ -180,7 +201,7 @@ params:
     title: "Gian Carlo Sanfuego."
     subtitle: "I turn data into insights"
     content: "A passionate data analyst who uses statistics, programming, and visualization to transform raw data into clear, actionable insights that support better decision-making."
-    image: /images/me.jpg
+    image: /images/formal.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -413,752 +434,757 @@ params:
         image: /images/tf2.png
 
   # projects
-  analysisProjects:
-    enable: true
-    title: "Analysis Projects"
-    items:
-      - title: CYCLISTIC BIKESHARE DATA CLEANING PROJECT
-        content: This project focuses on cleaning and preparing the Cyclistic Bikeshare dataset for further analysis. The dataset contains information about bike trips, including usertypes, trip details, and timestamp information
-        image: /images/r7.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "SQL"
-          - "SQL Server Management Studio"
-          - "Data Cleaning"
-          #- "Exponential Smoothing"
-          #- "ARIMA"
-          #- "Classification"
-          #- "Research"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/SQL.DataCleaningProject
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-      - title: "TIME SERIES ANALYSIS: Germany Inflation Rate"
-        content: This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.
-        image: /images/r7.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "R Programming"
-          - "Time Series Analysis"
-          - "Seasonality"
-          - "Exponential Smoothing"
-          - "ARIMA"
-          #- "Classification"
-          #- "Research"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/R.TS-Inflation-Rate-in-Germany
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-      - title: "TIME SERIES ANALYSIS: Singapore Labor Force Participation Rate"
-        content: This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.
-        image: /images/r6.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "R Programming"
-          - "Time Series Analysis"
-          - "Forecast"
-          - "ARIMA"
-          #- "Classification"
-          #- "Research"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/R.TS-Singapore-Labor-Force
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-      - title: DECISION TREE CLASSIFIER IN R
-        content: This project is designed for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell through decision trees. It caters to your curiosity about building and interpreting decision tree classifiers, understanding the relationships and splits within your data, and evaluating model performance through visualization and diagnostic checks.
-        image: /images/r5.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "R Programming"
-          - "Decision Tree"
-          - "Statistical Models"
-          - "ML"
-          - "Classification"
-          #- "Research"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/R.DecisionTreeClassifierInR
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-      - title: BUILDING STATISTICAL MODELS IN R
-        content: This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell. It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data, and evaluating model performance through visualization and diagnostic checks.
-        image: /images/r4.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "R Programming"
-          - "Linear Regression"
-          - "Statistical Models"
-          - "ML"
-          #- "Research"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/R.BuildingStatisticalModelsinR_LinearRegression
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-      - title: HYPOTHESIS TESTING IN R
-        content: This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.
-        image: /images/r3.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "R Programming"
-          - "Hypothesis Testing"
-          - "Statistics"
-          - "Analytics"
-          - "Research"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/R.HypothesisTestingInR
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-      - title: INTRODUCTION TO EDA IN R
-        content: This project is for people who are interested in unraveling the insights hidden within datasets. It caters to your curiosity about understanding data through visualization, statistical summaries, and uncovering patterns or anomalies.
-        image: /images/r2.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "R Programming"
-          - "EDA"
-          - "Analysis"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/R.IntroductionToEDAInR
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-      - title: CALCULATING DESCRIPTIVE STATISTICS IN R
-        content: This project is for people who are interested in data analysis, statistics, and programming in the R programming language. Descriptive statistics involve summarizing and describing the main features of a dataset, such as central tendency (mean, median, mode), dispersion (variance, standard deviation), and distribution (skewness, kurtosis). Therefore, the project is suitable for learners, analysts, researchers, or anyone interested in gaining proficiency in statistical analysis and data manipulation using R.
-        image: /images/r1.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "R Programming"
-          - "Statitics"
-          - "Distribution"
-          - "Analysis"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/R.CalculatingBasicDescriptiveInR
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-      - title: COFFEE SALES DATA ANALYSIS
-        content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
-        image: /images/da1.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Visualization"
-          - "Dashboard"
-          - "PivotTables"
-          - "Data Analysis"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: MARKET DATA ANALYSIS
-        content: This project analyzes, connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
-        image: /images/viz2.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Power BI"
-          - "Data Modeling"
-          - "Data Analysis"
-          - "KPI Visualization"
-          - "Dashboarding"
-          - "ETL Process"
-          - "Reporting"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: TOY STORE ANALYSIS
-        content: This project analyzes historical toy data to track key metrics, explore high-level trends, and build a simple but interactive KPI report.
-        image: /images/viz3.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Power BI"
-          - "Data Analysis"
-          - "ETL Process"
-          - "Data Modeling"
-          - "Visualization"
-          - "Reporting"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: OFFICE CHAIRS DATA ANALYSIS
-        content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
-        image: /images/viz4.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Data Analysis"
-          - "Pivot Tables"
-          - "Dashboard"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-  excelProjects:
-    enable: true
-    title: "Excel Projects"
-    items:
-      - title: CLEANING AND MANIPULATING TEXT
-        content: This project is designed for individuals eager to master Excel's Text functions for extracting insights and manipulating data effectively.
-        image: /images/1.1 excel/1.1 c.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Google Sheets"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/1.1.EXCEL-Cleaning-and-Manipulating-Text
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: WORKING WITH NUMBERS AND DATES
-        content: This project is tailored for individuals keen on mastering Excel's Date and Number functions to extract insights and manipulate data effectively.
-        image: /images/1.2 ex.png
-        #featured:
-        #  name: Demo
-        #  link: https://django-converter.herokuapp.com
-        badges:
-          - "Excel"
-          - "Google Sheets"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/1.2.EXCEL-Working-with-Numbers-and-Dates
-
-      - title: DEFINED NAMES FOR WORKING MOFE EFFECTIVELY WITH DATA
-        content: This project is designed for individuals eager to master Excel's cell referencing and naming techniques for streamlining formulas and automating processes efficiently.
-        image: /images/1.3 ex.png
-        #featured:
-        #  name: Demo V2
-        #  link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Excel"
-          - "Google Sheets"
-          #- "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/1.3.EXCEL-Defined-Names-for-working-more-effectively-with-data
-
-      - title: TABLES FOR AUTOMATING DATA MANIPULATION
-        content: This project is tailored for mastering Excel's table features, enabling efficient data management and automated processes.
-        image: /images/1.4 ex.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Google Sheets"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/1.4.EXCEL-Tables-for-Automating-Data-Manipulation
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: LOGICAL AND LOOKUP FUNCTIONS
-        content: This project is structured to enhance your Excel proficiency through mastering conditional logic and automating lookups, advancing your data analytics capabilities.
-        image: /images/1.5 ex.png
-        #featured:
-        #  name: Demo
-        #  link: https://django-converter.herokuapp.com
-        badges:
-          - "Excel"
-          - "Google Sheets"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/1.5.EXCEL-Logical-and-LookUp-Functions
-
-      - title: DATA VIZZ USING CONDITIONAL FORMATTING, SPARKLINES, AND NUMBER FORMATS
-        content: This project is for people who want to enhance their data visualization skills using conditional formatting, sparklines, and number formats to provide valuable insights and practical techniques.
-        image: /images/2.1 ex.png
-        #featured:
-        #  name: Demo V2
-        #  link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Excel"
-          - "Google Sheets"
-          - "Visualization"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/2.1.EXCEL-DataViz-Using-Conditional-Formatting-Sparklines-Number-Formats
-
-      - title: MASTERING CHARTING TECHNIQUES
-        content: This project is for people who want to leverage Excel for proficient visualization. This equips users to create effective charts for informed decision-making.
-        image: /images/2.2 ex.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Google Sheets"
-          - "Visualization"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/2.2.EXCEL-Masterning-Charting-Techniques
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: SPECIALIZED CHARTS
-        content: This project is for those looking to master the utilization of specialized charts in Excel for comprehensive analysis, enabling users to create tailored visualizations that effectively communicate complex data insights.
-        image: /images/2.3 ex.png
-        #featured:
-        #  name: Demo
-        #  link: https://django-converter.herokuapp.com
-        badges:
-          - "Excel"
-          - "Google Sheets"
-          - "Visualization"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/2.3.EXCEL-Specialized-Charts
-
-      - title: OFFICE CHAIRS VISUALIZATION
-        content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
-        image: /images/viz4.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Data Analysis"
-          - "Pivot Tables"
-          - "Dashboard"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: COFFEE SALES DATA ANALYSIS
-        content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
-        image: /images/da1.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Visualization"
-          - "Dashboard"
-          - "PivotTables"
-          - "Data Analysis"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-  sqlProjects:
-    enable: true
-    title: "SQL Projects"
-    items:
-      - title: QUERYING DATABASES USING SELECT STATEMENTS
-        content:  |
-          Below is the summary of the tasks performed in this project:
-
-            Task 1: SELECT - FROM
-
-            Task 2: SELECT - FROM AND WHERE
-
-            Task 3: SQL Operators
-
-            Task 4: Wildcard Characters
-
-            Task 5: SQL Operators - Part 2
-
-            Task 6: Other Comparison Operators
-
-            Task 7: SELECT DISTINCT, ORDER BY, LIMIT, and SQL Aliases
-
-        image: /images/sql1.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "SQL"
-          - "PostgreSQL"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: PERFORMING DATA AGGREGATION USING SQL AGGREGATE FUNCTIONS
-        content:  |
-          Below is the summary of the tasks performed in this project:
-
-              Task 1: Introduction
-
-              Task 2: COUNT()
-
-              Task 3: SELECT DISTINCT & GROUP BY
-
-              Task 4: HAVING
-
-              Task 5: SUM()
-
-              Task 6: MIN() & MAX()
-
-              Task 7: AVG()
-
-              Task 8: ROUND
-
-        image: /images/sql2.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "SQL"
-          - "PostgreSQL"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: SQL CASE STATEMENTS
-        content:  |
-          Below is the summary of the tasks performed in this project:
-
-              Task 1: The SQL CASE statement
-
-              Task 2: Adding multiple conditions to a CASE statement
-
-              Task 3: The CASE Statement and Aggregate Functions
-
-              Task 4: The CASE Statement and SQL Joins
-
-              Task 5: The CASE Statement together with Aggregate Functions and Joins
-
-              Task 6: Transposing data using the CASE clause
-
-        image: /images/sql3.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "SQL"
-          - "PostgreSQL"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project3.%20SQL%20Case%20Statements
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: MASTERING SQL JOINS
-        content:  |
-          Below is the summary of the tasks performed in this project:
-
-            Task 1: Getting Started
-
-            Task 2: INNER JOIN
-
-            Task 3: Duplicate Records
-
-            Task 4: LEFT JOIN
-
-            Task 5: RIGHT JOIN
-
-            Task 6: Join used together with WHERE clause
-
-            Task 7: Using Aggregate Functions with Joins
-
-            Task 8: Join more than Two Tables in SQL
-
-        image: /images/sql4.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "SQL"
-          - "PostgreSQL"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project4.%20Mastering%20SQL%20Joins
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: SQL WINDOW FUNCTIONS FOR ANALYTICS
-        content:  |
-          Below is the summary of the tasks performed in this project:
-
-              Task 1: Getting Started
-
-              Task 2: Window Functions - Refresher
-
-              Task 3: Ranking
-
-              Task 4: Paging: NTILE()
-
-              Task 5: Aggregate Window Functions - Part One
-
-              Task 6: Aggregate Window Functions - Part Two
-
-              Task 7: Window Frames - Part One
-
-              Task 8: Window Frames - Part Two
-
-              Task 9: GROUPING SETS(), ROLLUP(), & CUBE()
-
-        image: /images/sql5.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "SQL"
-          - "PostgreSQL"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project5.%20SQL%20Window%20Functions%20for%20Analytics
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: SQL DATETIME FINCTIONS
-        content:  |
-          Below is the summary of the tasks performed in this project:
-
-              Task 1: Getting Started
-
-              Task 2: Current Date & Time
-
-              Task 3: AGE() - Part One
-
-              Task 4: AGE() - Part Two
-
-              Task 5: EXTRACT() - Part One
-
-              Task 6: EXTRACT() - Part Two
-
-              Task 7: Converting Date to Strings
-
-              Task 8: Converting Strings to Date
-
-        image: /images/sql6.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "SQL"
-          - "PostgreSQL"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project6.%20SQL%20DateTime%20Functions
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-
-  vizzProjects:
-    enable: true
-    title: "Visualization Projects"
-    items:
-      - title: COFFEE SALES VISUALIZATION
-        content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
-        image: /images/da1.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Visualization"
-          - "Dashboard"
-          - "PivotTables"
-          - "Reporting"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: MARKET DATA ANALYSIS
-        content: This project analyzes, connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
-        image: /images/viz2.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Power BI"
-          - "KPI Visualization"
-          - "Dashboarding"
-          - "ETL Process"
-          - "Reporting"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: TOY STORE KPI VISUALIZATION
-        content: This project analyzes historical toy data to track key metrics, explore high-level trends, and build a simple but interactive KPI report.
-        image: /images/viz3.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Power BI"
-          - "KPI Visualization"
-          - "Dashboarding"
-          - "ETL Process"
-          - "Reporting"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: OFFICE CHAIRS VISUALIZATION
-        content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
-        image: /images/viz4.png
-        #featured:
-        #  name: Demo
-        #  link: https://hugo-profile.netlify.app
-        badges:
-          - "Excel"
-          - "Visualization"
-          - "Dashboarding"
-          - "Reporting"
-          #- "Javascript"
-        links:
-          #- icon: fa fa-envelope
-          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
-          #- icon: fab fa-twitter
-          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  # analysisProjects:
+  #   enable: true
+  #   title: "Analysis Projects"
+  #   items:
+  #     - title: CYCLISTIC BIKESHARE DATA CLEANING PROJECT
+  #       content: This project focuses on cleaning and preparing the Cyclistic Bikeshare dataset for further analysis. The dataset contains information about bike trips, including usertypes, trip details, and timestamp information
+  #       image: /images/r7.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "SQL"
+  #         - "SQL Server Management Studio"
+  #         - "Data Cleaning"
+  #         #- "Exponential Smoothing"
+  #         #- "ARIMA"
+  #         #- "Classification"
+  #         #- "Research"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/SQL.DataCleaningProject
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  #     - title: "TIME SERIES ANALYSIS: Germany Inflation Rate"
+  #       content: This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.
+  #       image: /images/r7.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "R Programming"
+  #         - "Time Series Analysis"
+  #         - "Seasonality"
+  #         - "Exponential Smoothing"
+  #         - "ARIMA"
+  #         #- "Classification"
+  #         #- "Research"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/R.TS-Inflation-Rate-in-Germany
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  #     - title: "TIME SERIES ANALYSIS: Singapore Labor Force Participation Rate"
+  #       content: This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.
+  #       image: /images/r6.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "R Programming"
+  #         - "Time Series Analysis"
+  #         - "Forecast"
+  #         - "ARIMA"
+  #         #- "Classification"
+  #         #- "Research"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/R.TS-Singapore-Labor-Force
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  #     - title: DECISION TREE CLASSIFIER IN R
+  #       content: This project is designed for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell through decision trees. It caters to your curiosity about building and interpreting decision tree classifiers, understanding the relationships and splits within your data, and evaluating model performance through visualization and diagnostic checks.
+  #       image: /images/r5.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "R Programming"
+  #         - "Decision Tree"
+  #         - "Statistical Models"
+  #         - "ML"
+  #         - "Classification"
+  #         #- "Research"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/R.DecisionTreeClassifierInR
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  #     - title: BUILDING STATISTICAL MODELS IN R
+  #       content: This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell. It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data, and evaluating model performance through visualization and diagnostic checks.
+  #       image: /images/r4.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "R Programming"
+  #         - "Linear Regression"
+  #         - "Statistical Models"
+  #         - "ML"
+  #         #- "Research"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/R.BuildingStatisticalModelsinR_LinearRegression
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  #     - title: HYPOTHESIS TESTING IN R
+  #       content: This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.
+  #       image: /images/r3.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "R Programming"
+  #         - "Hypothesis Testing"
+  #         - "Statistics"
+  #         - "Analytics"
+  #         - "Research"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/R.HypothesisTestingInR
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  #     - title: INTRODUCTION TO EDA IN R
+  #       content: This project is for people who are interested in unraveling the insights hidden within datasets. It caters to your curiosity about understanding data through visualization, statistical summaries, and uncovering patterns or anomalies.
+  #       image: /images/r2.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "R Programming"
+  #         - "EDA"
+  #         - "Analysis"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/R.IntroductionToEDAInR
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  #     - title: CALCULATING DESCRIPTIVE STATISTICS IN R
+  #       content: This project is for people who are interested in data analysis, statistics, and programming in the R programming language. Descriptive statistics involve summarizing and describing the main features of a dataset, such as central tendency (mean, median, mode), dispersion (variance, standard deviation), and distribution (skewness, kurtosis). Therefore, the project is suitable for learners, analysts, researchers, or anyone interested in gaining proficiency in statistical analysis and data manipulation using R.
+  #       image: /images/r1.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "R Programming"
+  #         - "Statitics"
+  #         - "Distribution"
+  #         - "Analysis"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/R.CalculatingBasicDescriptiveInR
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  #     - title: COFFEE SALES DATA ANALYSIS
+  #       content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
+  #       image: /images/da1.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Visualization"
+  #         - "Dashboard"
+  #         - "PivotTables"
+  #         - "Data Analysis"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: MARKET DATA ANALYSIS
+  #       content: This project analyzes, connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
+  #       image: /images/viz2.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Power BI"
+  #         - "Data Modeling"
+  #         - "Data Analysis"
+  #         - "KPI Visualization"
+  #         - "Dashboarding"
+  #         - "ETL Process"
+  #         - "Reporting"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: TOY STORE ANALYSIS
+  #       content: This project analyzes historical toy data to track key metrics, explore high-level trends, and build a simple but interactive KPI report.
+  #       image: /images/viz3.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Power BI"
+  #         - "Data Analysis"
+  #         - "ETL Process"
+  #         - "Data Modeling"
+  #         - "Visualization"
+  #         - "Reporting"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: OFFICE CHAIRS DATA ANALYSIS
+  #       content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
+  #       image: /images/viz4.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Data Analysis"
+  #         - "Pivot Tables"
+  #         - "Dashboard"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  # excelProjects:
+  #   enable: true
+  #   title: "Excel Projects"
+  #   items:
+  #     - title: CLEANING AND MANIPULATING TEXT
+  #       content: This project is designed for individuals eager to master Excel's Text functions for extracting insights and manipulating data effectively.
+  #       image: /images/1.1 excel/1.1 c.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Google Sheets"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/1.1.EXCEL-Cleaning-and-Manipulating-Text
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: WORKING WITH NUMBERS AND DATES
+  #       content: This project is tailored for individuals keen on mastering Excel's Date and Number functions to extract insights and manipulate data effectively.
+  #       image: /images/1.2 ex.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://django-converter.herokuapp.com
+  #       badges:
+  #         - "Excel"
+  #         - "Google Sheets"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/1.2.EXCEL-Working-with-Numbers-and-Dates
+  #
+  #     - title: DEFINED NAMES FOR WORKING MOFE EFFECTIVELY WITH DATA
+  #       content: This project is designed for individuals eager to master Excel's cell referencing and naming techniques for streamlining formulas and automating processes efficiently.
+  #       image: /images/1.3 ex.png
+  #       #featured:
+  #       #  name: Demo V2
+  #       #  link: https://hugo-profile-2.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Google Sheets"
+  #         #- "Javascript"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/1.3.EXCEL-Defined-Names-for-working-more-effectively-with-data
+  #
+  #     - title: TABLES FOR AUTOMATING DATA MANIPULATION
+  #       content: This project is tailored for mastering Excel's table features, enabling efficient data management and automated processes.
+  #       image: /images/1.4 ex.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Google Sheets"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/1.4.EXCEL-Tables-for-Automating-Data-Manipulation
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: LOGICAL AND LOOKUP FUNCTIONS
+  #       content: This project is structured to enhance your Excel proficiency through mastering conditional logic and automating lookups, advancing your data analytics capabilities.
+  #       image: /images/1.5 ex.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://django-converter.herokuapp.com
+  #       badges:
+  #         - "Excel"
+  #         - "Google Sheets"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/1.5.EXCEL-Logical-and-LookUp-Functions
+  #
+  #     - title: DATA VIZZ USING CONDITIONAL FORMATTING, SPARKLINES, AND NUMBER FORMATS
+  #       content: This project is for people who want to enhance their data visualization skills using conditional formatting, sparklines, and number formats to provide valuable insights and practical techniques.
+  #       image: /images/2.1 ex.png
+  #       #featured:
+  #       #  name: Demo V2
+  #       #  link: https://hugo-profile-2.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Google Sheets"
+  #         - "Visualization"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/2.1.EXCEL-DataViz-Using-Conditional-Formatting-Sparklines-Number-Formats
+  #
+  #     - title: MASTERING CHARTING TECHNIQUES
+  #       content: This project is for people who want to leverage Excel for proficient visualization. This equips users to create effective charts for informed decision-making.
+  #       image: /images/2.2 ex.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Google Sheets"
+  #         - "Visualization"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/2.2.EXCEL-Masterning-Charting-Techniques
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: SPECIALIZED CHARTS
+  #       content: This project is for those looking to master the utilization of specialized charts in Excel for comprehensive analysis, enabling users to create tailored visualizations that effectively communicate complex data insights.
+  #       image: /images/2.3 ex.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://django-converter.herokuapp.com
+  #       badges:
+  #         - "Excel"
+  #         - "Google Sheets"
+  #         - "Visualization"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/2.3.EXCEL-Specialized-Charts
+  #
+  #     - title: OFFICE CHAIRS VISUALIZATION
+  #       content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
+  #       image: /images/viz4.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Data Analysis"
+  #         - "Pivot Tables"
+  #         - "Dashboard"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: COFFEE SALES DATA ANALYSIS
+  #       content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
+  #       image: /images/da1.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Visualization"
+  #         - "Dashboard"
+  #         - "PivotTables"
+  #         - "Data Analysis"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  # sqlProjects:
+  #   enable: true
+  #   title: "SQL Projects"
+  #   items:
+  #     - title: QUERYING DATABASES USING SELECT STATEMENTS
+  #       content:  |
+  #         Below is the summary of the tasks performed in this project:
+  #
+  #           Task 1: SELECT - FROM
+  #
+  #           Task 2: SELECT - FROM AND WHERE
+  #
+  #           Task 3: SQL Operators
+  #
+  #           Task 4: Wildcard Characters
+  #
+  #           Task 5: SQL Operators - Part 2
+  #
+  #           Task 6: Other Comparison Operators
+  #
+  #           Task 7: SELECT DISTINCT, ORDER BY, LIMIT, and SQL Aliases
+  #
+  #       image: /images/sql1.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "SQL"
+  #         - "PostgreSQL"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: PERFORMING DATA AGGREGATION USING SQL AGGREGATE FUNCTIONS
+  #       content:  |
+  #         Below is the summary of the tasks performed in this project:
+  #
+  #             Task 1: Introduction
+  #
+  #             Task 2: COUNT()
+  #
+  #             Task 3: SELECT DISTINCT & GROUP BY
+  #
+  #             Task 4: HAVING
+  #
+  #             Task 5: SUM()
+  #
+  #             Task 6: MIN() & MAX()
+  #
+  #             Task 7: AVG()
+  #
+  #             Task 8: ROUND
+  #
+  #       image: /images/sql2.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "SQL"
+  #         - "PostgreSQL"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: SQL CASE STATEMENTS
+  #       content:  |
+  #         Below is the summary of the tasks performed in this project:
+  #
+  #             Task 1: The SQL CASE statement
+  #
+  #             Task 2: Adding multiple conditions to a CASE statement
+  #
+  #             Task 3: The CASE Statement and Aggregate Functions
+  #
+  #             Task 4: The CASE Statement and SQL Joins
+  #
+  #             Task 5: The CASE Statement together with Aggregate Functions and Joins
+  #
+  #             Task 6: Transposing data using the CASE clause
+  #
+  #       image: /images/sql3.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "SQL"
+  #         - "PostgreSQL"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project3.%20SQL%20Case%20Statements
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: MASTERING SQL JOINS
+  #       content:  |
+  #         Below is the summary of the tasks performed in this project:
+  #
+  #           Task 1: Getting Started
+  #
+  #           Task 2: INNER JOIN
+  #
+  #           Task 3: Duplicate Records
+  #
+  #           Task 4: LEFT JOIN
+  #
+  #           Task 5: RIGHT JOIN
+  #
+  #           Task 6: Join used together with WHERE clause
+  #
+  #           Task 7: Using Aggregate Functions with Joins
+  #
+  #           Task 8: Join more than Two Tables in SQL
+  #
+  #       image: /images/sql4.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "SQL"
+  #         - "PostgreSQL"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project4.%20Mastering%20SQL%20Joins
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: SQL WINDOW FUNCTIONS FOR ANALYTICS
+  #       content:  |
+  #         Below is the summary of the tasks performed in this project:
+  #
+  #             Task 1: Getting Started
+  #
+  #             Task 2: Window Functions - Refresher
+  #
+  #             Task 3: Ranking
+  #
+  #             Task 4: Paging: NTILE()
+  #
+  #             Task 5: Aggregate Window Functions - Part One
+  #
+  #             Task 6: Aggregate Window Functions - Part Two
+  #
+  #             Task 7: Window Frames - Part One
+  #
+  #             Task 8: Window Frames - Part Two
+  #
+  #             Task 9: GROUPING SETS(), ROLLUP(), & CUBE()
+  #
+  #       image: /images/sql5.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "SQL"
+  #         - "PostgreSQL"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project5.%20SQL%20Window%20Functions%20for%20Analytics
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: SQL DATETIME FINCTIONS
+  #       content:  |
+  #         Below is the summary of the tasks performed in this project:
+  #
+  #             Task 1: Getting Started
+  #
+  #             Task 2: Current Date & Time
+  #
+  #             Task 3: AGE() - Part One
+  #
+  #             Task 4: AGE() - Part Two
+  #
+  #             Task 5: EXTRACT() - Part One
+  #
+  #             Task 6: EXTRACT() - Part Two
+  #
+  #             Task 7: Converting Date to Strings
+  #
+  #             Task 8: Converting Strings to Date
+  #
+  #       image: /images/sql6.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "SQL"
+  #         - "PostgreSQL"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project6.%20SQL%20DateTime%20Functions
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #
+  # vizzProjects:
+  #   enable: true
+  #   title: "Visualization Projects"
+  #   items:
+  #     - title: COFFEE SALES VISUALIZATION
+  #       content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
+  #       image: /images/da1.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Visualization"
+  #         - "Dashboard"
+  #         - "PivotTables"
+  #         - "Reporting"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: MARKET DATA ANALYSIS
+  #       content: This project analyzes, connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
+  #       image: /images/viz2.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Power BI"
+  #         - "KPI Visualization"
+  #         - "Dashboarding"
+  #         - "ETL Process"
+  #         - "Reporting"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: TOY STORE KPI VISUALIZATION
+  #       content: This project analyzes historical toy data to track key metrics, explore high-level trends, and build a simple but interactive KPI report.
+  #       image: /images/viz3.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Power BI"
+  #         - "KPI Visualization"
+  #         - "Dashboarding"
+  #         - "ETL Process"
+  #         - "Reporting"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: OFFICE CHAIRS VISUALIZATION
+  #       content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
+  #       image: /images/viz4.png
+  #       #featured:
+  #       #  name: Demo
+  #       #  link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Excel"
+  #         - "Visualization"
+  #         - "Dashboarding"
+  #         - "Reporting"
+  #         #- "Javascript"
+  #       links:
+  #         #- icon: fa fa-envelope
+  #         #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
+  #         #- icon: fab fa-twitter
+  #         #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: |
+      My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+
+      Email: giancarlosanfuego@gmail.com
+
+      Phone: +63 947 785 1615
     btnName: Mail me
     btnLink: mailto:giancarlosanfuego@gmail.com
     # formspree:

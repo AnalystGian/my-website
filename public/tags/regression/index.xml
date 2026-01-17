@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression on AnalystGian</title>
+    <link>http://localhost:1313/tags/regression/</link>
+    <description>Recent content in Regression on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BUILDING STATISTICAL MODELS IN R</title>
+      <link>http://localhost:1313/analysis/statsmodelsr/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/statsmodelsr/</guid>
+      <description>&lt;p&gt;This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell.&#xA;It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data,&#xA;and evaluating model performance through visualization and diagnostic checks.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build simple and multiple linear regression models&lt;/li&gt;&#xA;&lt;li&gt;Perform model assessment and interpretation of results&lt;/li&gt;&#xA;&lt;li&gt;Perform diagnostic checks to test for model assumptions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

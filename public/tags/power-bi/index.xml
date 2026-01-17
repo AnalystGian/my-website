@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power BI on AnalystGian</title>
+    <link>http://localhost:1313/tags/power-bi/</link>
+    <description>Recent content in Power BI on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MARKET DATA ANALYSIS</title>
+      <link>http://localhost:1313/analysis/marketda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/marketda/</guid>
+      <description>&lt;p&gt;This project analyzes, connecting and shaping the data,&#xA;building a relational model, adding calculated fields, and designing an interactive report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report, metrics and KPI&amp;rsquo;s.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MARKET DATA ANALYSIS</title>
+      <link>http://localhost:1313/vizz/marketda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/marketda/</guid>
+      <description>&lt;p&gt;This project analyzes, connecting and shaping the data,&#xA;building a relational model, adding calculated fields, and designing an interactive report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report, metrics and KPI&amp;rsquo;s.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TOY STORE ANALYSIS</title>
+      <link>http://localhost:1313/analysis/toystoreda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/toystoreda/</guid>
+      <description>&lt;p&gt;This project analyzes historical toy data to track key metrics,&#xA;explore high-level trends, and build a simple but interactive KPI report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables,&#xA;creating simple hierarchies, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report to show orders, revenue and profit over time and by product category.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TOY STORE KPI VISUALIZATION</title>
+      <link>http://localhost:1313/vizz/toystoreda/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vizz/toystoreda/</guid>
+      <description>&lt;p&gt;This project analyzes historical toy data to track key metrics,&#xA;explore high-level trends, and build a simple but interactive KPI report.&lt;/p&gt;&#xA;&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Connect to the source data files, conduct basic profiling and QA tasks.&lt;/li&gt;&#xA;&lt;li&gt;Create a relational data model by defining relationships between fact and dimension tables,&#xA;creating simple hierarchies, and adjusting model properties.&lt;/li&gt;&#xA;&lt;li&gt;Enhance the data model, prepare for analysis by defining new measures and calculated fields.&lt;/li&gt;&#xA;&lt;li&gt;Visualize the data and create an interactive report to show orders, revenue and profit over time and by product category.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The project includes files:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
