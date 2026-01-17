@@ -1,0 +1,1214 @@
+baseURL: "https://hugo-profile.netlify.app"
+languageCode: "en-us"
+title: "AnalystGian"
+theme: hugo-profile
+
+# Image cache (only needed for processed images)
+caches:
+  images:
+    dir: ":cacheDir/images"
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+#services:
+  #googleAnalytics:
+    #id: G-MEASUREMENT_ID
+  #disqus:
+    #shortname: your-disqus-shortname
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: about
+      name: About Me
+      url: "#about"
+      weight: 1
+
+    - identifier: analysis
+      name: Analysis
+      url: "#analysisProjects"
+      weight: 2
+
+    - identifier: excel
+      name: Excel
+      url: "#excelProjects"
+      weight: 3
+
+    - identifier: sql
+      name: SQL
+      url: "#sqlProjects"
+      weight: 4
+
+    - identifier: vizz
+      name: Vizz
+      url: "#vizzProjects"
+      weight: 5
+
+
+    - identifier: achievements
+      name: Achievements
+      url: "#achievements"
+      weight: 6
+
+
+    - identifier: contact
+      name: Contact
+      url: "#contact"
+      weight: 7
+
+
+    #- identifier: blog
+    #  name: Blog
+    #  title: Blog posts
+    #  url: /blogs
+    #  weight: 1
+    #- identifier: gallery
+    #  name: Gallery
+    #  title: Blog posts
+    #  url: /gallery
+    #  weight: 2
+    #Dropdown menu
+    # - identifier: dropdown
+    #   title: Example dropdown menu
+    #   name: Dropdown
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: example dropdown 1
+    #   name: example 1
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: example dropdown 2
+    #   name: example 2
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 2
+
+params:
+  title: "Hugo Profile"
+  description: Text about my cool site
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/images/sitelogo.png"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # If you want to load dynamically responsive images from Cloudinary
+  # This requires your images to be uploaded + hosted on Cloudinary
+  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
+  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
+
+  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
+  mathjax: false
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    # disableThemeToggle: true
+    # defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  # color preference
+  # When using hex codes for colors, quotations must be used along with the # sign
+  # color:
+  #   textColor: "#343a40"
+  #   secondaryTextColor: "#6c757d"
+  #   textLinkColor: "#007bff"
+  #   backgroundColor: "#eaedf0"
+  #   secondaryBackgroundColor: "#64ffda1a"
+  #   primaryColor: "#007bff"
+  #   secondaryColor: "#f8f9fa"
+
+  #   darkmode:
+  #     textColor: "#e4e6eb"
+  #     secondaryTextColor: "#b0b3b8"
+  #     textLinkColor: "#ffffff"
+  #     backgroundColor: "#18191a"
+  #     secondaryBackgroundColor: "#212529"
+  #     primaryColor: "#ffffff"
+  #     secondaryColor: "#212529"
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "AnalystGian" # Brand name for the brand | default is the title variable
+    disableSearch: true
+    # searchPlaceholder: "Search"
+    stickyNavBar:
+      enable : true
+      showOnScrollUp : true
+    enableSeparator: false
+    menus:
+      disableAbout: true
+      disableExperience: true
+      disableEducation: true
+      disableProjects: true
+      disableAchievements: true
+      disableContact: true
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Gian Carlo Sanfuego."
+    subtitle: "I turn data into insights"
+    content: "A passionate data analyst who uses statistics, programming, and visualization to transform raw data into clear, actionable insights that support better decision-making."
+    image: /images/hero.svg
+    bottomImage:
+      enable: true
+    # roundImage: true # Make hero image circular | default false
+    #button:
+    #  enable: true
+    #  name: "CV"
+    #  url: "#"
+    #  download: true
+    #  newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/AnalystGian
+        - icon: fab fa-linkedin-in
+          url: https://www.linkedin.com/in/analystgian/
+        - icon: fa-solid fa-envelope
+          url: mailto:giancarlosanfuego@gmail.com
+      #customIcons:
+      #  - icon: /fav.png
+      #    url: "https://www.linkedin.com/in/analystgian/"
+
+  # About
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/me.png"
+    content: |-
+      I am a mathematics teacher with a strong foundation in algebra, geometry, probability, and statistics. I also pursued graduate-level studies in mathematics, where I explored linear algebra, set theory and logic, statistics, number theory, and modern geometry.
+
+      I am passionate about applying data analytics and data science to solve real-world problems, using tools like Python, R, SQL, and Power BI to explore, visualize, and model data. I enjoy turning insights into actionable solutions that can help people and organizations make informed decisions.
+    skills:
+      enable: true
+      title: "Here are a few technologies I've been working with recently:"
+      items:
+        - "Data Cleaning & Preprocessing"
+        - "R (tidyverse, ggplot2, dplyr)"
+        - "Python (Numpy, Pandas, Matplotlib, Seaborn)"
+        - "Excel / Google Sheets (advanced functions, pivot tables)"
+        - "SQL (PostgreSQL, MySQL)"
+        - "Machine Learning (scikit-learn, TensorFlow basics)"
+        - "Power BI (data visualization & dashboards)"
+
+  # Experience
+  #experience:
+  #  enable: true
+    # title: "Custom Name" (dont uncomment)
+  #  items:
+  #    - company: "Facebook"
+  #      companyUrl: "https://example.com"
+  #      jobs:
+  #        - name: "Senior Software Developer"
+  #          date: "Jan 2023 - present"
+  #          content: "I am currently working as a senior software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+  #          info:
+  #            content: Working as a senior software developer
+  #          featuredItems:
+  #            fontAwesomeIcons:
+  #              - icon: fa-brands fa-react
+  #                url: https://react.dev/
+  #                tooltip: Example tooltip content
+  #              - icon: fab fa-x-twitter
+  #                url: https://example.com
+                  # tooltip: Example tooltip content (dont uncomment)
+  #            customIcons:
+  #              - icon: /fav.png
+  #                url: "https://example.com"
+  #                tooltip: Example tooltip content
+  #        - name: "Software Developer"
+  #          date: "Jan 2022 - Dec 2023"
+  #          content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
+
+  #    - company: "Amazon"
+  #      companyUrl: "https://example.com"
+  #      jobs:
+  #        - name: "Software Developer"
+  #          date: "Sep 2020 - Dec 2021"
+  #          info:
+  #            content: I worked as a software developer for more than one year in Amazon.
+  #          content: |
+  #            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+
+  #            - Lead backend developer for a product.
+  #            - Created a frontend design for a product.
+
+      #- company: "Apple"
+      #  companyUrl: "https://example.com"
+      #  jobs:
+      #  - name: "Junior Software Developer"
+      #    date: "Jan 2020 - Aug 2020"
+      #    featuredItems:
+      #      fontAwesomeIcons:
+      #        - icon: fa-brands fa-react
+      #          url: https://react.dev/
+      #        - icon: fab fa-x-twitter
+      #          url: https://example.com
+      #      customIcons:
+      #        - icon: /fav.png
+      #          url: "https://example.com"
+      #    content: |
+      #      I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+
+      #      - Lead backend developer for a product.
+      #      - Created a frontend design for a product.
+
+      #- company: "Netflix"
+      #  companyUrl: "https://example.com"
+      #  jobs:
+      #  - name: "UI/UX Designer"
+      #    date: "June 2017 - Nov 2019"
+      #    content: |
+      #      I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+
+      #      - Lead backend developer for a product.
+      #      - Created a frontend design for a product.
+
+      #- company: "Google"
+      #  companyUrl: "https://example.com"
+      #  jobs:
+      #  - name: "Product Designer"
+      #    date: "Feb 2016 - Mar 2017"
+      #    content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+
+  # Education
+  #education:
+  #  enable: true
+    # title: "Custom Name" (dont uncomment)
+  #  index: false
+  #  items:
+  #    - title: "Master of Business Administration"
+  #      school:
+  #        name: "University of California, Berkeley"
+  #        url: "https://example.org"
+  #      date: "2013 - 2015"
+  #      GPA: "3.8 out of 5.0"
+  #      content: |-
+  #        Extracurricular Activities
+  #          - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  #          - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+  #    - title: "Bachelor of Science in Computer Science"
+  #      school:
+  #        name: "Massachusetts Institute of Technology"
+  #        url: "https://example.org"
+  #      date: "2009 - 2013"
+  #      GPA: "3.9 out of 5.0"
+  #      content: |-
+  #        I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+  #        - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+  #        - Face mask detection using a single convolutional neural network.
+
+  #        Extracurricular Activities
+  #          - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  #          - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+  #      featuredLink:
+  #        enable: true
+  #        name: "My academic record"
+  #        url: "https://example.com"
+  #    - title: "High School"
+  #      school:
+  #        name: "Thomas Jefferson High School for Science and Technology."
+  #        url: "https://example.org"
+  #      GPA: "4.2 out of 5.0"
+  #      featuredLink:
+  #        enable: true
+  #        url: "https://example.com"
+
+  # Achievements
+  achievements:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: Google Data Analytics
+        #content: I solved all problems with optimal solution.
+        url: "https://coursera.org/share/3013b02f5a95a0a708399c949d102cfe"
+        image: /images/google.png
+      - title: SQL for Data Science
+        #content: I solved all problems with optimal solution.
+        url: "https://coursera.org/share/1ed38411828c402e11815c8562521094"
+        image: /images/sqlds.png
+      - title: Excel Skills for Data Analytics and Visualization
+        #content: Developed a product using Artificial Intelligence.
+        url: "https://coursera.org/share/73b79b5699b335ea0a1d6d91de6cd2c9"
+        image: /images/Excel.png
+      - title: Microsoft Power BI Desktop for Business Intelligence
+        #content: Developed a product using Artificial Intelligence.
+        url: "https://www.udemy.com/certificate/UC-03f281a8-f0ad-4e85-9dcb-d4fa2784ff38/"
+        image: /images/pbi.png
+      - title: "Data Science: Foundations using R"
+        #content: Developed a product using Artificial Intelligence.
+        url: "https://coursera.org/share/4bd3a51e34332c22811ac1d98be3f6f9"
+        image: /images/r.png
+      - title: Statistical Inference in R
+        #content: Developed a theme and getting 1K+ downloads per month.
+        url: "https://coursera.org/share/1d95d41e51f16166987ab780531ca88c"
+        image: /images/rstats.png
+      - title: Regression Models in R
+        #content: We are developed a product which can help others.
+        url: "https://coursera.org/share/65f24e54a3e08ad252424703a217a822"
+        image: /images/rregmodels.png
+      - title: Practical Machine Learning in R
+        #content: Contributed to a open source project.
+        url: "https://coursera.org/share/821e9f5e2f103c8e94f19c2a1d1da21c"
+        image: /images/machinelearningr.png
+      - title: Intro to Time Series Analysis and Forecasting in R
+        #content: Contributed to a open source project.
+        url: "https://www.udemy.com/certificate/UC-ca15db23-4233-4a68-83cd-9122b9f27e38/"
+        image: /images/introtsr.png
+      - title: Applied Time Series Analysis and Forecasting with R Projects
+        #content: Contributed to a open source project.
+        url: "https://www.udemy.com/certificate/UC-1cb3db91-2e52-4921-a8e7-5fd5a852b287/"
+        image: /images/tsforecastr.png
+      - title: Python for Everybody
+        #content: Contributed to a open source project.
+        url: "https://coursera.org/share/f249c96b532f31dd50120616fb8a6709"
+        image: /images/python.png
+      - title: Statistics with Python
+        #content: Contributed to a open source project.
+        url: "https://coursera.org/share/4a2b073f68f42bab180704550a978437"
+        image: /images/pythonstats.png
+      - title: Applied Data Science with Python Specialization
+        #content: Contributed to a open source project.
+        url: "https://coursera.org/share/c8c5517f0e655dece6583378aca82bca"
+        image: /images/pythonds.png
+      - title: Version Control with Git
+        #content: Contributed to a open source project.
+        url: "https://coursera.org/share/1e8d3f3fc1e741b3c004332d62b5703c"
+        image: /images/vcgit.png
+      - title: TensorFlow 2 for Deep Learning
+        #content: Contributed to a open source project.
+        url: "https://coursera.org/share/510d38574942290b3df70a9108d435f3"
+        image: /images/tf2.png
+
+  # projects
+  analysisProjects:
+    enable: true
+    title: "Analysis Projects"
+    items:
+      - title: CYCLISTIC BIKESHARE DATA CLEANING PROJECT
+        content: This project focuses on cleaning and preparing the Cyclistic Bikeshare dataset for further analysis. The dataset contains information about bike trips, including usertypes, trip details, and timestamp information
+        image: /images/r7.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "SQL"
+          - "SQL Server Management Studio"
+          - "Data Cleaning"
+          #- "Exponential Smoothing"
+          #- "ARIMA"
+          #- "Classification"
+          #- "Research"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/SQL.DataCleaningProject
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+      - title: "TIME SERIES ANALYSIS: Germany Inflation Rate"
+        content: This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.
+        image: /images/r7.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "R Programming"
+          - "Time Series Analysis"
+          - "Seasonality"
+          - "Exponential Smoothing"
+          - "ARIMA"
+          #- "Classification"
+          #- "Research"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/R.TS-Inflation-Rate-in-Germany
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+      - title: "TIME SERIES ANALYSIS: Singapore Labor Force Participation Rate"
+        content: This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.
+        image: /images/r6.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "R Programming"
+          - "Time Series Analysis"
+          - "Forecast"
+          - "ARIMA"
+          #- "Classification"
+          #- "Research"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/R.TS-Singapore-Labor-Force
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+      - title: DECISION TREE CLASSIFIER IN R
+        content: This project is designed for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell through decision trees. It caters to your curiosity about building and interpreting decision tree classifiers, understanding the relationships and splits within your data, and evaluating model performance through visualization and diagnostic checks.
+        image: /images/r5.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "R Programming"
+          - "Decision Tree"
+          - "Statistical Models"
+          - "ML"
+          - "Classification"
+          #- "Research"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/R.DecisionTreeClassifierInR
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+      - title: BUILDING STATISTICAL MODELS IN R
+        content: This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell. It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data, and evaluating model performance through visualization and diagnostic checks.
+        image: /images/r4.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "R Programming"
+          - "Linear Regression"
+          - "Statistical Models"
+          - "ML"
+          #- "Research"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/R.BuildingStatisticalModelsinR_LinearRegression
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+      - title: HYPOTHESIS TESTING IN R
+        content: This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.
+        image: /images/r3.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "R Programming"
+          - "Hypothesis Testing"
+          - "Statistics"
+          - "Analytics"
+          - "Research"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/R.HypothesisTestingInR
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+      - title: INTRODUCTION TO EDA IN R
+        content: This project is for people who are interested in unraveling the insights hidden within datasets. It caters to your curiosity about understanding data through visualization, statistical summaries, and uncovering patterns or anomalies.
+        image: /images/r2.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "R Programming"
+          - "EDA"
+          - "Analysis"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/R.IntroductionToEDAInR
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+      - title: CALCULATING DESCRIPTIVE STATISTICS IN R
+        content: This project is for people who are interested in data analysis, statistics, and programming in the R programming language. Descriptive statistics involve summarizing and describing the main features of a dataset, such as central tendency (mean, median, mode), dispersion (variance, standard deviation), and distribution (skewness, kurtosis). Therefore, the project is suitable for learners, analysts, researchers, or anyone interested in gaining proficiency in statistical analysis and data manipulation using R.
+        image: /images/r1.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "R Programming"
+          - "Statitics"
+          - "Distribution"
+          - "Analysis"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/R.CalculatingBasicDescriptiveInR
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+      - title: COFFEE SALES DATA ANALYSIS
+        content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
+        image: /images/da1.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Visualization"
+          - "Dashboard"
+          - "PivotTables"
+          - "Data Analysis"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: MARKET DATA ANALYSIS
+        content: This project analyzes, connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
+        image: /images/viz2.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Power BI"
+          - "Data Modeling"
+          - "Data Analysis"
+          - "KPI Visualization"
+          - "Dashboarding"
+          - "ETL Process"
+          - "Reporting"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: TOY STORE ANALYSIS
+        content: This project analyzes historical toy data to track key metrics, explore high-level trends, and build a simple but interactive KPI report.
+        image: /images/viz3.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Power BI"
+          - "Data Analysis"
+          - "ETL Process"
+          - "Data Modeling"
+          - "Visualization"
+          - "Reporting"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: OFFICE CHAIRS DATA ANALYSIS
+        content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
+        image: /images/viz4.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Data Analysis"
+          - "Pivot Tables"
+          - "Dashboard"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+  excelProjects:
+    enable: true
+    title: "Excel Projects"
+    items:
+      - title: CLEANING AND MANIPULATING TEXT
+        content: This project is designed for individuals eager to master Excel's Text functions for extracting insights and manipulating data effectively.
+        image: /images/1.1 excel/1.1 c.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Google Sheets"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/1.1.EXCEL-Cleaning-and-Manipulating-Text
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: WORKING WITH NUMBERS AND DATES
+        content: This project is tailored for individuals keen on mastering Excel's Date and Number functions to extract insights and manipulate data effectively.
+        image: /images/1.2 ex.png
+        #featured:
+        #  name: Demo
+        #  link: https://django-converter.herokuapp.com
+        badges:
+          - "Excel"
+          - "Google Sheets"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/1.2.EXCEL-Working-with-Numbers-and-Dates
+
+      - title: DEFINED NAMES FOR WORKING MOFE EFFECTIVELY WITH DATA
+        content: This project is designed for individuals eager to master Excel's cell referencing and naming techniques for streamlining formulas and automating processes efficiently.
+        image: /images/1.3 ex.png
+        #featured:
+        #  name: Demo V2
+        #  link: https://hugo-profile-2.netlify.app
+        badges:
+          - "Excel"
+          - "Google Sheets"
+          #- "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/1.3.EXCEL-Defined-Names-for-working-more-effectively-with-data
+
+      - title: TABLES FOR AUTOMATING DATA MANIPULATION
+        content: This project is tailored for mastering Excel's table features, enabling efficient data management and automated processes.
+        image: /images/1.4 ex.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Google Sheets"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/1.4.EXCEL-Tables-for-Automating-Data-Manipulation
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: LOGICAL AND LOOKUP FUNCTIONS
+        content: This project is structured to enhance your Excel proficiency through mastering conditional logic and automating lookups, advancing your data analytics capabilities.
+        image: /images/1.5 ex.png
+        #featured:
+        #  name: Demo
+        #  link: https://django-converter.herokuapp.com
+        badges:
+          - "Excel"
+          - "Google Sheets"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/1.5.EXCEL-Logical-and-LookUp-Functions
+
+      - title: DATA VIZZ USING CONDITIONAL FORMATTING, SPARKLINES, AND NUMBER FORMATS
+        content: This project is for people who want to enhance their data visualization skills using conditional formatting, sparklines, and number formats to provide valuable insights and practical techniques.
+        image: /images/2.1 ex.png
+        #featured:
+        #  name: Demo V2
+        #  link: https://hugo-profile-2.netlify.app
+        badges:
+          - "Excel"
+          - "Google Sheets"
+          - "Visualization"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/2.1.EXCEL-DataViz-Using-Conditional-Formatting-Sparklines-Number-Formats
+
+      - title: MASTERING CHARTING TECHNIQUES
+        content: This project is for people who want to leverage Excel for proficient visualization. This equips users to create effective charts for informed decision-making.
+        image: /images/2.2 ex.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Google Sheets"
+          - "Visualization"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/2.2.EXCEL-Masterning-Charting-Techniques
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: SPECIALIZED CHARTS
+        content: This project is for those looking to master the utilization of specialized charts in Excel for comprehensive analysis, enabling users to create tailored visualizations that effectively communicate complex data insights.
+        image: /images/2.3 ex.png
+        #featured:
+        #  name: Demo
+        #  link: https://django-converter.herokuapp.com
+        badges:
+          - "Excel"
+          - "Google Sheets"
+          - "Visualization"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/2.3.EXCEL-Specialized-Charts
+
+      - title: OFFICE CHAIRS VISUALIZATION
+        content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
+        image: /images/viz4.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Data Analysis"
+          - "Pivot Tables"
+          - "Dashboard"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: COFFEE SALES DATA ANALYSIS
+        content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
+        image: /images/da1.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Visualization"
+          - "Dashboard"
+          - "PivotTables"
+          - "Data Analysis"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+  sqlProjects:
+    enable: true
+    title: "SQL Projects"
+    items:
+      - title: QUERYING DATABASES USING SELECT STATEMENTS
+        content:  |
+          Below is the summary of the tasks performed in this project:
+
+            Task 1: SELECT - FROM
+
+            Task 2: SELECT - FROM AND WHERE
+
+            Task 3: SQL Operators
+
+            Task 4: Wildcard Characters
+
+            Task 5: SQL Operators - Part 2
+
+            Task 6: Other Comparison Operators
+
+            Task 7: SELECT DISTINCT, ORDER BY, LIMIT, and SQL Aliases
+
+        image: /images/sql1.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "SQL"
+          - "PostgreSQL"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: PERFORMING DATA AGGREGATION USING SQL AGGREGATE FUNCTIONS
+        content:  |
+          Below is the summary of the tasks performed in this project:
+
+              Task 1: Introduction
+
+              Task 2: COUNT()
+
+              Task 3: SELECT DISTINCT & GROUP BY
+
+              Task 4: HAVING
+
+              Task 5: SUM()
+
+              Task 6: MIN() & MAX()
+
+              Task 7: AVG()
+
+              Task 8: ROUND
+
+        image: /images/sql2.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "SQL"
+          - "PostgreSQL"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: SQL CASE STATEMENTS
+        content:  |
+          Below is the summary of the tasks performed in this project:
+
+              Task 1: The SQL CASE statement
+
+              Task 2: Adding multiple conditions to a CASE statement
+
+              Task 3: The CASE Statement and Aggregate Functions
+
+              Task 4: The CASE Statement and SQL Joins
+
+              Task 5: The CASE Statement together with Aggregate Functions and Joins
+
+              Task 6: Transposing data using the CASE clause
+
+        image: /images/sql3.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "SQL"
+          - "PostgreSQL"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project3.%20SQL%20Case%20Statements
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: MASTERING SQL JOINS
+        content:  |
+          Below is the summary of the tasks performed in this project:
+
+            Task 1: Getting Started
+
+            Task 2: INNER JOIN
+
+            Task 3: Duplicate Records
+
+            Task 4: LEFT JOIN
+
+            Task 5: RIGHT JOIN
+
+            Task 6: Join used together with WHERE clause
+
+            Task 7: Using Aggregate Functions with Joins
+
+            Task 8: Join more than Two Tables in SQL
+
+        image: /images/sql4.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "SQL"
+          - "PostgreSQL"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project4.%20Mastering%20SQL%20Joins
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: SQL WINDOW FUNCTIONS FOR ANALYTICS
+        content:  |
+          Below is the summary of the tasks performed in this project:
+
+              Task 1: Getting Started
+
+              Task 2: Window Functions - Refresher
+
+              Task 3: Ranking
+
+              Task 4: Paging: NTILE()
+
+              Task 5: Aggregate Window Functions - Part One
+
+              Task 6: Aggregate Window Functions - Part Two
+
+              Task 7: Window Frames - Part One
+
+              Task 8: Window Frames - Part Two
+
+              Task 9: GROUPING SETS(), ROLLUP(), & CUBE()
+
+        image: /images/sql5.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "SQL"
+          - "PostgreSQL"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project5.%20SQL%20Window%20Functions%20for%20Analytics
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: SQL DATETIME FINCTIONS
+        content:  |
+          Below is the summary of the tasks performed in this project:
+
+              Task 1: Getting Started
+
+              Task 2: Current Date & Time
+
+              Task 3: AGE() - Part One
+
+              Task 4: AGE() - Part Two
+
+              Task 5: EXTRACT() - Part One
+
+              Task 6: EXTRACT() - Part Two
+
+              Task 7: Converting Date to Strings
+
+              Task 8: Converting Strings to Date
+
+        image: /images/sql6.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "SQL"
+          - "PostgreSQL"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/SQL_Projects/tree/main/Project6.%20SQL%20DateTime%20Functions
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+
+  vizzProjects:
+    enable: true
+    title: "Visualization Projects"
+    items:
+      - title: COFFEE SALES VISUALIZATION
+        content: This project analyzes the data and transform into a dynamic dashboard that owners can use to identify patterns, trends, and opportunities for the business.
+        image: /images/da1.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Visualization"
+          - "Dashboard"
+          - "PivotTables"
+          - "Reporting"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: MARKET DATA ANALYSIS
+        content: This project analyzes, connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
+        image: /images/viz2.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Power BI"
+          - "KPI Visualization"
+          - "Dashboarding"
+          - "ETL Process"
+          - "Reporting"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: TOY STORE KPI VISUALIZATION
+        content: This project analyzes historical toy data to track key metrics, explore high-level trends, and build a simple but interactive KPI report.
+        image: /images/viz3.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Power BI"
+          - "KPI Visualization"
+          - "Dashboarding"
+          - "ETL Process"
+          - "Reporting"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: OFFICE CHAIRS VISUALIZATION
+        content: This project analyzes historical sales data alongside customer information to identify regional sales trends, popular product models, and customer preferences.
+        image: /images/viz4.png
+        #featured:
+        #  name: Demo
+        #  link: https://hugo-profile.netlify.app
+        badges:
+          - "Excel"
+          - "Visualization"
+          - "Dashboarding"
+          - "Reporting"
+          #- "Javascript"
+        links:
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+  #Contact
+  contact:
+    enable: true
+    # title: "Custom Name"
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    btnName: Mail me
+    btnLink: mailto:giancarlosanfuego@gmail.com
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
+    #   messageRows: 5
+
+  footer:
+    #recentPosts:
+    #  path: "blogs"
+    #  count: 3
+    #  title: Recent Posts
+    #  enable: true
+    #  disableFeaturedImage: false
+    socialNetworks:
+      github: https://github.com/AnalystGian
+      linkedin: https://www.linkedin.com/in/analystgian/
+      #twitter: https://twitter.com
+      #instagram: https://instagram.com
+      #facebook: https://facebook.com
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    socialShare: true
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: true
+
+  # For translations
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>
