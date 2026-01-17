@@ -180,7 +180,7 @@ params:
     title: "Gian Carlo Sanfuego."
     subtitle: "I turn data into insights"
     content: "A passionate data analyst who uses statistics, programming, and visualization to transform raw data into clear, actionable insights that support better decision-making."
-    image: /images/hero.svg
+    image: /images/me.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -206,7 +206,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/me.jpg"
     content: |-
       I am a mathematics teacher with a strong foundation in algebra, geometry, probability, and statistics. I also pursued graduate-level studies in mathematics, where I explored linear algebra, set theory and logic, statistics, number theory, and modern geometry.
 
