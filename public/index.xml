@@ -6,8 +6,22 @@
     <description>Recent content on AnalystGian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TITANIC SURVIVAL PREDICTION USING MACHINE LEARNING</title>
+      <link>http://localhost:1313/analysis/titanic/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/titanic/</guid>
+      <description>&lt;p&gt;Data Source: &lt;a href=&#34;https://www.kaggle.com/c/titanic&#34;&gt;https://www.kaggle.com/c/titanic&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In this project, we will build, train and test a machine learning model to predict titanic survivors based on their features such as age, number of siblings, and ticket class. We will explore two machine learning algorithms, namely:&#xA;(1) logistic regression classifier model and;&#xA;(2) Naive Bayes classifier model.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;LEARNING OBJECTIVES&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data cleaning, feature engineering and visualization&lt;/li&gt;&#xA;&lt;li&gt;Build, train and test a logistic regression classifier model in Sklearn&lt;/li&gt;&#xA;&lt;li&gt;Understand the theory and intuition behind logistic regression classifier models&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PART 2 MASTERING DATA ANALYSIS WITH PANDAS</title>
+      <link>http://localhost:1313/analysis/masteringdapart2/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/masteringdapart2/</guid>
+      <description>&lt;p&gt;In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the second of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform Label-based and Integer-based DataFrame indexing&lt;/li&gt;&#xA;&lt;li&gt;Define and manipulate multi-dimensional Pandas DataFrames&lt;/li&gt;&#xA;&lt;li&gt;Master data analysis and manipulation in Pandas and Python&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SQL DATETIME FINCTIONS</title>
       <link>http://localhost:1313/sql/6/</link>
@@ -49,6 +63,13 @@
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sql/1/</guid>
       <description>&lt;p&gt;Below are the key objectives of this project:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Retrieve data from tables of a database using SQL SELECT statement.&lt;/li&gt;&#xA;&lt;li&gt;Use different SQL operators together with the WHERE clause to set conditions on tables of a database for database manipulation.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is the summary of the tasks performed in this project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Task 1: SELECT - FROM&lt;/li&gt;&#xA;&lt;li&gt;Task 2: SELECT - FROM AND WHERE&lt;/li&gt;&#xA;&lt;li&gt;Task 3: SQL Operators&lt;/li&gt;&#xA;&lt;li&gt;Task 4: Wildcard Characters&lt;/li&gt;&#xA;&lt;li&gt;Task 5: SQL Operators - Part 2&lt;/li&gt;&#xA;&lt;li&gt;Task 6: Other Comparison Operators&lt;/li&gt;&#xA;&lt;li&gt;Task 7: SELECT DISTINCT, ORDER BY, LIMIT, and SQL Aliases&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link to this project in &lt;a href=&#34;https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements&#34;&gt;https://github.com/AnalystGian/SQL_Projects/tree/main/Project1.%20Querying%20Databases%20Using%20SELECT%20Statements&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PART 1 MASTERING DATA ANALYSIS WITH PANDAS </title>
+      <link>http://localhost:1313/analysis/masteringdapart1/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/masteringdapart1/</guid>
+      <description>&lt;p&gt;In this structured series of projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the first of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Master data analysis and manipulation in Pandas and Python&lt;/li&gt;&#xA;&lt;li&gt;Define and manipulate Pandas Series&lt;/li&gt;&#xA;&lt;li&gt;Master Pandas Attributes, methods and math operations&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
     </item>
     <item>
       <title>DECISION TREE CLASSIFIER IN R</title>

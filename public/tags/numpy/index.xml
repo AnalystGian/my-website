@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NumPy on AnalystGian</title>
+    <link>http://localhost:1313/tags/numpy/</link>
+    <description>Recent content in NumPy on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MASTERING DATA ANALYSIS WITH PANDAS PART 1</title>
+      <link>http://localhost:1313/analysis/masteringdapart1/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/masteringdapart1/</guid>
+      <description>&lt;h1 id=&#34;mastering-data-analysis-with-pandas-part-1&#34;&gt;Mastering-Data-Analysis-with-Pandas-Part-1&lt;/h1&gt;&#xA;&lt;p&gt;In this structured series of projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the first of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Master data analysis and manipulation in Pandas and Python&lt;/li&gt;&#xA;&lt;li&gt;Define and manipulate Pandas Series&lt;/li&gt;&#xA;&lt;li&gt;Master Pandas Attributes, methods and math operations&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

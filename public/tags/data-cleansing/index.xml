@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Cleansing on AnalystGian</title>
+    <link>http://localhost:1313/tags/data-cleansing/</link>
+    <description>Recent content in Data Cleansing on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-cleansing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TITANIC SURVIVAL PREDICTION USING MACHINE LEARNING</title>
+      <link>http://localhost:1313/analysis/titanic/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/titanic/</guid>
+      <description>&lt;p&gt;Data Source: &lt;a href=&#34;https://www.kaggle.com/datasets/ibrahimelsayed182/titanic-dataset&#34;&gt;https://www.kaggle.com/datasets/ibrahimelsayed182/titanic-dataset&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In this project, we will build, train and test a machine learning model to predict titanic survivors based on their features such as age, number of siblings, and ticket class. We will explore two machine learning algorithms, namely:&#xA;(1) logistic regression classifier model and;&#xA;(2) Naive Bayes classifier model.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;LEARNING OBJECTIVES&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data cleaning, feature engineering and visualization&lt;/li&gt;&#xA;&lt;li&gt;Build, train and test a logistic regression classifier model in Sklearn&lt;/li&gt;&#xA;&lt;li&gt;Understand the theory and intuition behind logistic regression classifier models&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
