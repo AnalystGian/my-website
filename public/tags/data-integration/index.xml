@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Integration on AnalystGian</title>
+    <link>http://localhost:1313/tags/data-integration/</link>
+    <description>Recent content in Data Integration on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-integration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PART 3 MASTERING DATA ANALYSIS WITH PANDAS</title>
+      <link>http://localhost:1313/analysis/masteringdapart3/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/masteringdapart3/</guid>
+      <description>&lt;p&gt;In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the third of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply Pandas DataFrame Operations/Filtering Strategies&lt;/li&gt;&#xA;&lt;li&gt;Apply advanced data manipulation, merging and concatenation techniques with Pandas&lt;/li&gt;&#xA;&lt;li&gt;Mastering Pandas DataFrame Operations with Functions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,8 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/analysis/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/applied-machine-learning/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/classification-algorithms/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-cleansing/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-science/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-visualization/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/feature-engineering/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/logistic-regression/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/model-evaluation/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python-programming/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scikit-learn-machine-learning-library/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/supervised-learning/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/titanic/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-analysis/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-manipulation/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-preprocessing/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/exploratory-data-analysis/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/matplotlib/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pandas-python-package/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/masteringdapart4/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/masteringdapart5/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/text-mining/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/time-series-analysis-and-forecasting/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-integration/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-transformation/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-wrangling/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/numpy/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/masteringdapart2/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/masteringdapart3/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/postgresql/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
@@ -15,9 +108,6 @@
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sql/</loc>
-    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sql/5/</loc>
@@ -35,8 +125,8 @@
     <loc>http://localhost:1313/sql/1/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/analysis/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/analysis/masteringdapart1/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/classification/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
@@ -96,9 +186,6 @@
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dashboarding/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-analysis/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-modeling/</loc>

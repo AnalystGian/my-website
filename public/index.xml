@@ -16,6 +16,20 @@
       <description>&lt;p&gt;Data Source: &lt;a href=&#34;https://www.kaggle.com/c/titanic&#34;&gt;https://www.kaggle.com/c/titanic&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In this project, we will build, train and test a machine learning model to predict titanic survivors based on their features such as age, number of siblings, and ticket class. We will explore two machine learning algorithms, namely:&#xA;(1) logistic regression classifier model and;&#xA;(2) Naive Bayes classifier model.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;LEARNING OBJECTIVES&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data cleaning, feature engineering and visualization&lt;/li&gt;&#xA;&lt;li&gt;Build, train and test a logistic regression classifier model in Sklearn&lt;/li&gt;&#xA;&lt;li&gt;Understand the theory and intuition behind logistic regression classifier models&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>PART 4 MASTERING DATA ANALYSIS WITH PANDAS</title>
+      <link>http://localhost:1313/analysis/masteringdapart4/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/masteringdapart4/</guid>
+      <description>&lt;p&gt;In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the fourth of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Mastering date and time operations in Pandas&lt;/li&gt;&#xA;&lt;li&gt;Define and manipulate Pandas DataFrames&lt;/li&gt;&#xA;&lt;li&gt;Master data analysis, Group by, and multi-indexing in Pandas and Python&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PART 5 MASTERING DATA ANALYSIS WITH PANDAS</title>
+      <link>http://localhost:1313/analysis/masteringdapart5/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/masteringdapart5/</guid>
+      <description>&lt;p&gt;In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the fifth of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Define and manipulate Pandas DataFrames and text data&lt;/li&gt;&#xA;&lt;li&gt;Perform text data cleaning by removing stopwords and punctuations&lt;/li&gt;&#xA;&lt;li&gt;Visualize Pandas DataFrames such as Count plot, Histograms, and Word Cloud&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>PART 2 MASTERING DATA ANALYSIS WITH PANDAS</title>
       <link>http://localhost:1313/analysis/masteringdapart2/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
@@ -23,7 +37,14 @@
       <description>&lt;p&gt;In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the second of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform Label-based and Integer-based DataFrame indexing&lt;/li&gt;&#xA;&lt;li&gt;Define and manipulate multi-dimensional Pandas DataFrames&lt;/li&gt;&#xA;&lt;li&gt;Master data analysis and manipulation in Pandas and Python&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>SQL DATETIME FINCTIONS</title>
+      <title>PART 3 MASTERING DATA ANALYSIS WITH PANDAS</title>
+      <link>http://localhost:1313/analysis/masteringdapart3/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/masteringdapart3/</guid>
+      <description>&lt;p&gt;In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the third of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply Pandas DataFrame Operations/Filtering Strategies&lt;/li&gt;&#xA;&lt;li&gt;Apply advanced data manipulation, merging and concatenation techniques with Pandas&lt;/li&gt;&#xA;&lt;li&gt;Mastering Pandas DataFrame Operations with Functions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SQL DATETIME FUNCTIONS</title>
       <link>http://localhost:1313/sql/6/</link>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sql/6/</guid>
