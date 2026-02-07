@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predictive Modeling on AnalystGian</title>
+    <link>http://localhost:1313/tags/predictive-modeling/</link>
+    <description>Recent content in Predictive Modeling on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/predictive-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PREDICT AD CLICKS USING LOGISTIC REGRESSION AND XG-BOOST</title>
+      <link>http://localhost:1313/analysis/predictadsclick/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/predictadsclick/</guid>
+      <description>&lt;p&gt;In this project, we will predict Ads clicks using logistic regression and XG-boost algorithms. I will assume that i have been hired as a consultant to a start-up that is running a targeted marketing ad campaign on Facebook. The company wants to analyze customer behavior by predicting which customer clicks on the advertisement.&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-objectives&#34;&gt;Project Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Assess the performance of trained classifier models using various KPIs such as accuracy, precision and recall&lt;/li&gt;&#xA;&lt;li&gt;Perform data cleaning, feature engineering and visualization&lt;/li&gt;&#xA;&lt;li&gt;Train and test an XG-Boost and Logistic Regression models in Scikit-Learn&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SCIKIT-LEARN FOR REGRESSION</title>
+      <link>http://localhost:1313/analysis/sklearnforreg/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/sklearnforreg/</guid>
+      <description>&lt;p&gt;In this project, we will build and train regression models using Scikit-Learn library. Scikit-learn is a free machine learning library developed for python. Scikit-learn offers several algorithms for classification, regression, and clustering. Several famous machine learning models are included such as support vector machines, random forests, gradient boosting, and k-means.&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;&#xA;&lt;p&gt;TASK 1: UNDERSTAND THE PROBLEM STATEMENT AND BUSINESS CASE&lt;/p&gt;&#xA;&lt;p&gt;TASK 2: IMPORT LIBRARIES AND DATASETS&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

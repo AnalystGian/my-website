@@ -6,8 +6,15 @@
     <description>Recent content in Data Preprocessing on AnalystGian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/data-preprocessing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PREDICT AD CLICKS USING LOGISTIC REGRESSION AND XG-BOOST</title>
+      <link>http://localhost:1313/analysis/predictadsclick/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/predictadsclick/</guid>
+      <description>&lt;p&gt;In this project, we will predict Ads clicks using logistic regression and XG-boost algorithms. I will assume that i have been hired as a consultant to a start-up that is running a targeted marketing ad campaign on Facebook. The company wants to analyze customer behavior by predicting which customer clicks on the advertisement.&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-objectives&#34;&gt;Project Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Assess the performance of trained classifier models using various KPIs such as accuracy, precision and recall&lt;/li&gt;&#xA;&lt;li&gt;Perform data cleaning, feature engineering and visualization&lt;/li&gt;&#xA;&lt;li&gt;Train and test an XG-Boost and Logistic Regression models in Scikit-Learn&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>PART 5 MASTERING DATA ANALYSIS WITH PANDAS</title>
       <link>http://localhost:1313/analysis/masteringdapart5/</link>

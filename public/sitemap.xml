@@ -3,19 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/analysis/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/applied-machine-learning/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/classification-algorithms/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-analysis/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning-algorithms/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/random-forest-algorithm/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scikit-learn-machine-learning-library/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/sklearnforclf/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/supervised-learning/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/unsupervised-learning/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/advertising/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/customer-analysis/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-cleansing/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-manipulation/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-preprocessing/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/digital-advertising/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/marketing-analytics/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/model-evaluation/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/performance-analysis/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/predictadsclick/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/predictive-modeling/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/predictive-analytics/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python-programming/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/regression-analysis/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/sklearnforreg/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-science/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
@@ -29,43 +101,28 @@
     <loc>http://localhost:1313/tags/logistic-regression/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/model-evaluation/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/python-programming/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/scikit-learn-machine-learning-library/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/supervised-learning/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/analysis/titanic/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-analysis/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/computer-programming/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-manipulation/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-preprocessing/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/data-structures/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/exploratory-data-analysis/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/matplotlib/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/numpy/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pandas-python-package/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/analysis/pythonforda/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/matplotlib/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/analysis/masteringdapart4/</loc>
@@ -87,9 +144,6 @@
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-wrangling/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/numpy/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/analysis/masteringdapart2/</loc>

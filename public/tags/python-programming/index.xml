@@ -6,14 +6,28 @@
     <description>Recent content in Python Programming on AnalystGian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/python-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCIKIT-LEARN FOR REGRESSION</title>
+      <link>http://localhost:1313/analysis/sklearnforreg/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/sklearnforreg/</guid>
+      <description>&lt;p&gt;In this project, we will build and train regression models using Scikit-Learn library. Scikit-learn is a free machine learning library developed for python. Scikit-learn offers several algorithms for classification, regression, and clustering. Several famous machine learning models are included such as support vector machines, random forests, gradient boosting, and k-means.&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;&#xA;&lt;p&gt;TASK 1: UNDERSTAND THE PROBLEM STATEMENT AND BUSINESS CASE&lt;/p&gt;&#xA;&lt;p&gt;TASK 2: IMPORT LIBRARIES AND DATASETS&lt;/p&gt;</description>
+    </item>
     <item>
       <title>TITANIC SURVIVAL PREDICTION USING MACHINE LEARNING</title>
       <link>http://localhost:1313/analysis/titanic/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/analysis/titanic/</guid>
       <description>&lt;p&gt;Data Source: &lt;a href=&#34;https://www.kaggle.com/c/titanic&#34;&gt;https://www.kaggle.com/c/titanic&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In this project, we will build, train and test a machine learning model to predict titanic survivors based on their features such as age, number of siblings, and ticket class. We will explore two machine learning algorithms, namely:&#xA;(1) logistic regression classifier model and;&#xA;(2) Naive Bayes classifier model.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;LEARNING OBJECTIVES&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform data cleaning, feature engineering and visualization&lt;/li&gt;&#xA;&lt;li&gt;Build, train and test a logistic regression classifier model in Sklearn&lt;/li&gt;&#xA;&lt;li&gt;Understand the theory and intuition behind logistic regression classifier models&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PYTHON FOR DATA ANALYSIS: PANDAS &amp; NUMPY</title>
+      <link>http://localhost:1313/analysis/pythonforda/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/pythonforda/</guid>
+      <description>&lt;p&gt;In this project, we will understand the fundamentals of data analysis in Python and we will leverage the power of two important python libraries known as Numpy and pandas. NumPy and Pandas are two of the most widely used python libraries in data science since they offer high-performance, easy to use structures and data analysis tools.&lt;/p&gt;&#xA;&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.livingin-canada.com/house-prices-canada.html&#34;&gt;https://www.livingin-canada.com/house-prices-canada.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;&#xA;&lt;p&gt;TASK 1: DEFINE SINGLE AND MULTI-DIMENSIONAL NUMPY ARRAYS&lt;/p&gt;</description>
     </item>
     <item>
       <title>PART 4 MASTERING DATA ANALYSIS WITH PANDAS</title>

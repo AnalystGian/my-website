@@ -6,8 +6,15 @@
     <description>Recent content in Exploratory Data Analysis on AnalystGian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/exploratory-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PYTHON FOR DATA ANALYSIS: PANDAS &amp; NUMPY</title>
+      <link>http://localhost:1313/analysis/pythonforda/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/pythonforda/</guid>
+      <description>&lt;p&gt;In this project, we will understand the fundamentals of data analysis in Python and we will leverage the power of two important python libraries known as Numpy and pandas. NumPy and Pandas are two of the most widely used python libraries in data science since they offer high-performance, easy to use structures and data analysis tools.&lt;/p&gt;&#xA;&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.livingin-canada.com/house-prices-canada.html&#34;&gt;https://www.livingin-canada.com/house-prices-canada.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;&#xA;&lt;p&gt;TASK 1: DEFINE SINGLE AND MULTI-DIMENSIONAL NUMPY ARRAYS&lt;/p&gt;</description>
+    </item>
     <item>
       <title>PART 5 MASTERING DATA ANALYSIS WITH PANDAS</title>
       <link>http://localhost:1313/analysis/masteringdapart5/</link>

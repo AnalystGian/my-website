@@ -6,27 +6,167 @@
     <description>Recent content in Tags on AnalystGian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applied Machine Learning</title>
       <link>http://localhost:1313/tags/applied-machine-learning/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/applied-machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Classification Algorithms</title>
       <link>http://localhost:1313/tags/classification-algorithms/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/classification-algorithms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning Algorithms</title>
+      <link>http://localhost:1313/tags/machine-learning-algorithms/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning-algorithms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random Forest Algorithm</title>
+      <link>http://localhost:1313/tags/random-forest-algorithm/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/random-forest-algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scikit Learn (Machine Learning Library)</title>
+      <link>http://localhost:1313/tags/scikit-learn-machine-learning-library/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scikit-learn-machine-learning-library/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supervised Learning</title>
+      <link>http://localhost:1313/tags/supervised-learning/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/supervised-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>http://localhost:1313/tags/unsupervised-learning/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advertising</title>
+      <link>http://localhost:1313/tags/advertising/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/advertising/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Customer Analysis</title>
+      <link>http://localhost:1313/tags/customer-analysis/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/customer-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Cleansing</title>
       <link>http://localhost:1313/tags/data-cleansing/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/data-cleansing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Manipulation</title>
+      <link>http://localhost:1313/tags/data-manipulation/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-manipulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Preprocessing</title>
+      <link>http://localhost:1313/tags/data-preprocessing/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-preprocessing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Advertising</title>
+      <link>http://localhost:1313/tags/digital-advertising/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-advertising/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing Analytics</title>
+      <link>http://localhost:1313/tags/marketing-analytics/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/marketing-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model Evaluation</title>
+      <link>http://localhost:1313/tags/model-evaluation/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/model-evaluation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance Analysis</title>
+      <link>http://localhost:1313/tags/performance-analysis/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/performance-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predictive Modeling</title>
+      <link>http://localhost:1313/tags/predictive-modeling/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/predictive-modeling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predictive Analytics</title>
+      <link>http://localhost:1313/tags/predictive-analytics/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/predictive-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python Programming</title>
+      <link>http://localhost:1313/tags/python-programming/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regression Analysis</title>
+      <link>http://localhost:1313/tags/regression-analysis/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/regression-analysis/</guid>
       <description></description>
     </item>
     <item>
@@ -58,66 +198,38 @@
       <description></description>
     </item>
     <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <title>Computer Programming</title>
+      <link>http://localhost:1313/tags/computer-programming/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/computer-programming/</guid>
       <description></description>
     </item>
     <item>
-      <title>Model Evaluation</title>
-      <link>http://localhost:1313/tags/model-evaluation/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/model-evaluation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python Programming</title>
-      <link>http://localhost:1313/tags/python-programming/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python-programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scikit Learn (Machine Learning Library)</title>
-      <link>http://localhost:1313/tags/scikit-learn-machine-learning-library/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/scikit-learn-machine-learning-library/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Supervised Learning</title>
-      <link>http://localhost:1313/tags/supervised-learning/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/supervised-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Analysis</title>
-      <link>http://localhost:1313/tags/data-analysis/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Manipulation</title>
-      <link>http://localhost:1313/tags/data-manipulation/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-manipulation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Preprocessing</title>
-      <link>http://localhost:1313/tags/data-preprocessing/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-preprocessing/</guid>
+      <title>Data Structures</title>
+      <link>http://localhost:1313/tags/data-structures/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-structures/</guid>
       <description></description>
     </item>
     <item>
       <title>Exploratory Data Analysis</title>
       <link>http://localhost:1313/tags/exploratory-data-analysis/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/exploratory-data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NumPy</title>
+      <link>http://localhost:1313/tags/numpy/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/numpy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandas (Python Package)</title>
+      <link>http://localhost:1313/tags/pandas-python-package/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pandas-python-package/</guid>
       <description></description>
     </item>
     <item>
@@ -125,13 +237,6 @@
       <link>http://localhost:1313/tags/matplotlib/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/matplotlib/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pandas (Python Package)</title>
-      <link>http://localhost:1313/tags/pandas-python-package/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pandas-python-package/</guid>
       <description></description>
     </item>
     <item>
@@ -167,13 +272,6 @@
       <link>http://localhost:1313/tags/data-wrangling/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/data-wrangling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NumPy</title>
-      <link>http://localhost:1313/tags/numpy/</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/numpy/</guid>
       <description></description>
     </item>
     <item>

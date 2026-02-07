@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Forest Algorithm on AnalystGian</title>
+    <link>http://localhost:1313/tags/random-forest-algorithm/</link>
+    <description>Recent content in Random Forest Algorithm on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/random-forest-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCIKIT-LEARN FOR CLASSIFICATION</title>
+      <link>http://localhost:1313/analysis/sklearnforclf/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/sklearnforclf/</guid>
+      <description>&lt;p&gt;In this project, we will build and train classifier models using Scikit-Learn library. Scikit-learn is a free machine learning library developed for python. Scikit-learn offers several algorithms for classification, regression, and clustering.&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;&#xA;&lt;p&gt;TASK 1: UNDERSTAND THE PROBLEM STATEMENT AND BUSINESS CASE&lt;/p&gt;&#xA;&lt;p&gt;TASK 2: IMPORT LIBRARIES AND DATASETS&lt;/p&gt;&#xA;&lt;p&gt;TASK 3: PERFORM EXPLORATORY DATA ANALYSIS&lt;/p&gt;&#xA;&lt;p&gt;TASK 4: CREATE TRAINING AND TESTING DATASET&lt;/p&gt;&#xA;&lt;p&gt;TASK 5: UNDERSTAND XG-BOOST ALGORITHM TO SOLVE CLASSIFICATION TYPE PROBLEMS&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
