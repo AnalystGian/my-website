@@ -30,6 +30,20 @@
       <description>&lt;p&gt;In this project, we will build and train regression models using Scikit-Learn library. Scikit-learn is a free machine learning library developed for python. Scikit-learn offers several algorithms for classification, regression, and clustering. Several famous machine learning models are included such as support vector machines, random forests, gradient boosting, and k-means.&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;&#xA;&lt;p&gt;TASK 1: UNDERSTAND THE PROBLEM STATEMENT AND BUSINESS CASE&lt;/p&gt;&#xA;&lt;p&gt;TASK 2: IMPORT LIBRARIES AND DATASETS&lt;/p&gt;</description>
     </item>
     <item>
+      <title>NAIVE BAYES: RESUME SELECTION WITH MACHINE LEARNING</title>
+      <link>http://localhost:1313/analysis/naivebayesresume/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/naivebayesresume/</guid>
+      <description>&lt;p&gt;In this project, we will build a Naïve Bayes classifiers to predict whether a given resume text is flagged or not. Our training data consist of 125 resumes with 33 flagged resumes and 92 non-flagged resumes. This project could be practically used to screen resumes in companies.&lt;/p&gt;&#xA;&lt;h1 id=&#34;data-scource&#34;&gt;Data Scource:&lt;/h1&gt;&#xA;&lt;p&gt;Link to the data in &lt;a href=&#34;https://www.kaggle.com/datasets/samdeeplearning/deepnlp&#34;&gt;https://www.kaggle.com/datasets/samdeeplearning/deepnlp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply python libraries to import and visualize dataset&lt;/li&gt;&#xA;&lt;li&gt;Perform exploratory data analysis and plot word-cloud&lt;/li&gt;&#xA;&lt;li&gt;Perform text data cleaning such as removing punctuation and stop words&lt;/li&gt;&#xA;&lt;li&gt;Understand the concept of count vectorization (tokenization)&lt;/li&gt;&#xA;&lt;li&gt;Perform tokenization using count vectorizer&lt;/li&gt;&#xA;&lt;li&gt;Understand the theory and intuition behind Naïve Bayes classifiers&lt;/li&gt;&#xA;&lt;li&gt;Train Naïve Bayes classifier models using Scikit-Learn to perform classification&lt;/li&gt;&#xA;&lt;li&gt;Evaluate the performance of trained Naïve Bayes Classifier model using confusion matrices.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;PROJECT STRUCTURE&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PRACTICAL DATA WRANGLING IN PANDAS</title>
+      <link>http://localhost:1313/analysis/datawrangling/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/datawrangling/</guid>
+      <description>&lt;p&gt;This project is about Data Wrangling and exploratory data analysis with Pandas. Exploratory Data Analysis (EDA) is a process of analyzing data to gain valuable insights such as statistical summary and visualizations. Pandas is a powerful open-source data analysis tool in python.&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;PROJECT STRUCTURE&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;&#xA;&lt;p&gt;TASK 1: UNDERSTAND THE PROBLEM STATEMENT&lt;/p&gt;&#xA;&lt;p&gt;TASK 2: IMPORT DATASET AND PERFORM BASIC STATISTICAL DATA ANALYSIS&lt;/p&gt;&#xA;&lt;p&gt;TASK 3: DEALING WITH MISSING DATA&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>TITANIC SURVIVAL PREDICTION USING MACHINE LEARNING</title>
       <link>http://localhost:1313/analysis/titanic/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
@@ -70,6 +84,13 @@
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/analysis/masteringdapart3/</guid>
       <description>&lt;p&gt;In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the third of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply Pandas DataFrame Operations/Filtering Strategies&lt;/li&gt;&#xA;&lt;li&gt;Apply advanced data manipulation, merging and concatenation techniques with Pandas&lt;/li&gt;&#xA;&lt;li&gt;Mastering Pandas DataFrame Operations with Functions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;Project Structure:&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NLP TWITTER SENTIMENT ANALYSIS</title>
+      <link>http://localhost:1313/analysis/nlptwitter/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/nlptwitter/</guid>
+      <description>&lt;p&gt;In this project, we will train a Naive Bayes classifier to predict sentiment from thousands of Twitter tweets. This project could be practically used by any company with social media presence to automatically predict customer&amp;rsquo;s sentiment (i.e.: whether their customers are happy or not). The process could be done automatically without having humans manually review thousands of tweets and customer reviews.&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Perform exploratory data analysis and plot word-cloud&lt;/li&gt;&#xA;&lt;li&gt;Apply python libraries to import and visualize dataset&lt;/li&gt;&#xA;&lt;li&gt;Evaluate the performance of trained Naïve Bayes Classifier model using confusion matrices.&lt;/li&gt;&#xA;&lt;li&gt;Train Naïve Bayes classifier models using Scikit-Learn to preform classification&lt;/li&gt;&#xA;&lt;li&gt;Understand the difference between prior probability, posterior probability and likelihood.&lt;/li&gt;&#xA;&lt;li&gt;Understand the theory and intuition behind Naïve Bayes classifiers&lt;/li&gt;&#xA;&lt;li&gt;Perform tokenization to tweet text using Scikit Learn&lt;/li&gt;&#xA;&lt;li&gt;Understand the concept of count vectorization (tokenization)&lt;/li&gt;&#xA;&lt;li&gt;Perform text data cleaning such as removing punctuation and stop words&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;PROJECT STRUCTURE&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
     </item>
     <item>
       <title>PART 1 MASTERING DATA ANALYSIS WITH PANDAS </title>

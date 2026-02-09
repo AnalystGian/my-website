@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probability &amp; Statistics on AnalystGian</title>
+    <link>http://localhost:1313/tags/probability--statistics/</link>
+    <description>Recent content in Probability &amp; Statistics on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/probability--statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NLP TWITTER SENTIMENT ANALYSIS</title>
+      <link>http://localhost:1313/analysis/nlptwitter/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/nlptwitter/</guid>
+      <description>&lt;p&gt;This project is about Data Wrangling and exploratory data analysis with Pandas. Exploratory Data Analysis (EDA) is a process of analyzing data to gain valuable insights such as statistical summary and visualizations. Pandas is a powerful open-source data analysis tool in python.&lt;/p&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;PROJECT STRUCTURE&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;&#xA;&lt;p&gt;TASK 1: UNDERSTAND THE PROBLEM STATEMENT&lt;/p&gt;&#xA;&lt;p&gt;TASK 2: IMPORT DATASET AND PERFORM BASIC STATISTICAL DATA ANALYSIS&lt;/p&gt;&#xA;&lt;p&gt;TASK 3: DEALING WITH MISSING DATA&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

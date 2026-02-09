@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on AnalystGian</title>
+    <link>http://localhost:1313/tags/computer-science/</link>
+    <description>Recent content in Computer Science on AnalystGian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NAIVE BAYES: RESUME SELECTION WITH MACHINE LEARNING</title>
+      <link>http://localhost:1313/analysis/naivebayesresume/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analysis/naivebayesresume/</guid>
+      <description>&lt;p&gt;In this project, we will build a Naïve Bayes classifiers to predict whether a given resume text is flagged or not. Our training data consist of 125 resumes with 33 flagged resumes and 92 non-flagged resumes. This project could be practically used to screen resumes in companies.&lt;/p&gt;&#xA;&lt;h1 id=&#34;data-scource&#34;&gt;Data Scource:&lt;/h1&gt;&#xA;&lt;p&gt;Link to the data in &lt;a href=&#34;https://www.kaggle.com/datasets/samdeeplearning/deepnlp&#34;&gt;https://www.kaggle.com/datasets/samdeeplearning/deepnlp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Apply python libraries to import and visualize dataset&lt;/li&gt;&#xA;&lt;li&gt;Perform exploratory data analysis and plot word-cloud&lt;/li&gt;&#xA;&lt;li&gt;Perform text data cleaning such as removing punctuation and stop words&lt;/li&gt;&#xA;&lt;li&gt;Understand the concept of count vectorization (tokenization)&lt;/li&gt;&#xA;&lt;li&gt;Perform tokenization using count vectorizer&lt;/li&gt;&#xA;&lt;li&gt;Understand the theory and intuition behind Naïve Bayes classifiers&lt;/li&gt;&#xA;&lt;li&gt;Train Naïve Bayes classifier models using Scikit-Learn to perform classification&lt;/li&gt;&#xA;&lt;li&gt;Evaluate the performance of trained Naïve Bayes Classifier model using confusion matrices.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;project-structure&#34;&gt;PROJECT STRUCTURE&lt;/h1&gt;&#xA;&lt;p&gt;This project is divided into different tasks:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

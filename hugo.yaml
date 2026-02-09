@@ -26,7 +26,7 @@ enableRobotsTXT: true
     #shortname: your-disqus-shortname
 
 pagination:
-  pagerSize: 6
+  pagerSize: 9
 
 markup:
   goldmark:
@@ -1195,12 +1195,12 @@ params:
     #   messageRows: 5
 
   footer:
-    #recentPosts:
-    #  path: "blogs"
-    #  count: 3
-    #  title: Recent Posts
-    #  enable: true
-    #  disableFeaturedImage: false
+    recentPosts:
+      path: "analysis"
+      count: 3
+      title: Recent Projects
+      enable: false
+      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/AnalystGian
       linkedin: https://www.linkedin.com/in/analystgian/
@@ -1214,7 +1214,7 @@ params:
 
   # Single pages like blog and post
   singlePages:
-    socialShare: true
+    socialShare: false
     readTime:
       enable: true
       content: "min read"
