@@ -27,6 +27,7 @@ This project aims to answer the following core questions:
 2. How do sales and profit vary across regions?
 3. Which products sell in high volume but generate low profit?
 4. How does business performance evolve over time?
+
 The goal is to transform raw transactional data into actionable insights that support pricing, product strategy, operational optimization, and long-term business growth.
 
 # Data Source
@@ -34,6 +35,7 @@ Link to the data in [https://www.kaggle.com/datasets/sidramazam/e-commerce-sales
 
 # Dataset Overview
 3,500 e-commerce transaction records
+
 7 structured fields:
 
 - Order Date
