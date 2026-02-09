@@ -19,7 +19,7 @@ tags:
   - Logistic Regression
 image: /images/titanic.jpg
 description: ""
-toc:
+toc: false
 ---
 
 Data Source: [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)

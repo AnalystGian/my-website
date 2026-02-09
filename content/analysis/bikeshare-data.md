@@ -10,7 +10,7 @@ tags:
   - Data Cleaning
 image: /images/bikeshare.png
 description: ""
-toc:
+toc: false
 ---
 
 This project focuses on cleaning and preparing the Cyclistic Bikeshare dataset for further analysis. The dataset contains information about bike trips, including usertypes, trip details, and timestamp information

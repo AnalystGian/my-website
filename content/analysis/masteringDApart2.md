@@ -13,7 +13,7 @@ tags:
   - Python Programming
 image: /images/masteringDapart1.png
 description: ""
-#toc:
+toc: false
 ---
 
 
