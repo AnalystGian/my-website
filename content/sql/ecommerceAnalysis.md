@@ -13,7 +13,7 @@ tags:
   - Product Performance
   - Time-Series Analysis
   - Data-Driven Decision Making
-image: /images/ecommerce.jpg
+image: /images/ecommerce.jpeg
 description: ""
 toc: false
 ---
