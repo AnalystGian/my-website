@@ -1,5 +1,5 @@
 ---
-title: "E-COMMERCE SALES PROFIT ANALYSIS"
+title: "E-COMMERCE SALES & PROFIT ANALYSIS"
 date: 2026-02-09
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
