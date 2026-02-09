@@ -11,7 +11,7 @@ tags:
   - ML
 image: /images/r4.png
 description: ""
-toc:
+toc: false
 ---
 
 This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell.

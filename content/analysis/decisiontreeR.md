@@ -12,7 +12,7 @@ tags:
   - Classification
 image: /images/r5.png
 description: ""
-toc:
+toc: false
 ---
 
 

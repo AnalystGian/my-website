@@ -16,7 +16,7 @@ tags:
   - Machine Learning Algorithms
 image: /images/sklearnclf.png
 description: ""
-#toc:
+toc: false
 ---
 
 In this project, we will build and train classifier models using Scikit-Learn library. Scikit-learn is a free machine learning library developed for python. Scikit-learn offers several algorithms for classification, regression, and clustering.

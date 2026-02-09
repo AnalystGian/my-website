@@ -10,7 +10,7 @@ tags:
   - Analysis
 image: /images/r1.png
 description: ""
-toc:
+toc: false
 ---
 
 This project is for people who are interested in data analysis, statistics, and programming in the R programming

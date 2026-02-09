@@ -14,7 +14,7 @@ tags:
   - Reporting
 image: /images/viz2.png
 description: ""
-toc:
+toc: false
 ---
 
 This project analyzes, connecting and shaping the data,

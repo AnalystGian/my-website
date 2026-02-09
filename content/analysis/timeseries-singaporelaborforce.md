@@ -11,7 +11,7 @@ tags:
   - ARIMA
 image: /images/r6.png
 description: ""
-toc:
+toc: false
 ---
 
 This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.

@@ -13,7 +13,7 @@ tags:
   - Reporting
 image: /images/viz3.png
 description: ""
-toc:
+toc: false
 ---
 
 This project analyzes historical toy data to track key metrics,

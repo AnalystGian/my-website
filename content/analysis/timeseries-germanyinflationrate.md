@@ -12,7 +12,7 @@ tags:
   - ARIMA
 image: /images/r7.png
 description: ""
-toc:
+toc: false
 ---
 
 This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.

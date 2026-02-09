@@ -10,7 +10,7 @@ tags:
   - Analysis
 image: /images/r2.png
 description: ""
-toc:
+toc: false
 ---
 
 This project is for people who are interested in unraveling the insights hidden within datasets. It caters to your curiosity about understanding data through visualization, statistical summaries, and uncovering patterns or anomalies.

@@ -12,7 +12,7 @@ tags:
   - Data Manipulation
 image: /images/masteringDapart1.png
 description: ""
-#toc:
+toc: false
 ---
 
 In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the fourth of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.

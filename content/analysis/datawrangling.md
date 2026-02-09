@@ -17,7 +17,7 @@ tags:
   - Data Wrangling
 image: /images/datawrangling.png
 description: ""
-#toc:
+toc: false
 ---
 
 This project is about Data Wrangling and exploratory data analysis with Pandas. Exploratory Data Analysis (EDA) is a process of analyzing data to gain valuable insights such as statistical summary and visualizations. Pandas is a powerful open-source data analysis tool in python.

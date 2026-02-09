@@ -11,7 +11,7 @@ tags:
   - Dashboard
 image: /images/viz4.png
 description: ""
-toc:
+toc: false
 ---
 
 This project analyzes historical sales data alongside customer information

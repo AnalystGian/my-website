@@ -12,7 +12,7 @@ tags:
   - Data Analysis
 image: /images/da1.png
 description: ""
-toc:
+toc: false
 ---
 
 This project analyzes the data and transform into a dynamic dashboard

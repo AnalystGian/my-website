@@ -12,7 +12,7 @@ tags:
   - Research
 image: /images/r3.png
 description: ""
-toc:
+toc: false
 ---
 
 This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.
