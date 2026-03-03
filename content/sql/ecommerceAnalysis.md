@@ -18,7 +18,7 @@ description: ""
 toc: false
 ---
 
-# Link to this project in [https://github.com/AnalystGian/E-Commerce-Sales-Profit-Analysis](https://github.com/AnalystGian/E-Commerce-Sales-Profit-Analysis)
+Link to this project in [https://github.com/AnalystGian/E-Commerce-Sales-Profit-Analysis](https://github.com/AnalystGian/E-Commerce-Sales-Profit-Analysis)
 
 # Project Overview
 This project analyzes a 3-year e-commerce transactional dataset (3,500 records) to evaluate revenue performance, profitability structure, growth momentum, volatility, concentration risk, and seasonality.
