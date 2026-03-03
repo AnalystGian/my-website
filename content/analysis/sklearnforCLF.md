@@ -19,6 +19,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Scikit-Learn-for-Classification](https://github.com/AnalystGian/Scikit-Learn-for-Classification)
+
 In this project, we will build and train classifier models using Scikit-Learn library. Scikit-learn is a free machine learning library developed for python. Scikit-learn offers several algorithms for classification, regression, and clustering.
 
 # Project Structure:
@@ -37,5 +39,3 @@ TASK 5: UNDERSTAND XG-BOOST ALGORITHM TO SOLVE CLASSIFICATION TYPE PROBLEMS
 TASK 6: TRAIN AN XG-BOOST CLASSIFIER IN SKLEARN
 
 TASK 7: TEST XG-BOOST CLASSIFIER TO PERFORM INFERENCE
-
-Link to this project in [https://github.com/AnalystGian/Scikit-Learn-for-Classification](https://github.com/AnalystGian/Scikit-Learn-for-Classification)

@@ -22,6 +22,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Titanic-Survival-Prediction-Using-Machine-Learning](https://github.com/AnalystGian/Titanic-Survival-Prediction-Using-Machine-Learning)
+
 Data Source: [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)
 
 In this project, we will build, train and test a machine learning model to predict titanic survivors based on their features such as age, number of siblings, and ticket class. We will explore two machine learning algorithms, namely:
@@ -52,5 +54,3 @@ TASK # 6: Train a Logistic Regression Classifier Model
 TASK # 7: Assess Trained Model Performance
 
 TASK # 8: Train and Assess a Naive Bayes Classifier Model
-
-Link to this project in [https://github.com/AnalystGian/Titanic-Survival-Prediction-Using-Machine-Learning](https://github.com/AnalystGian/Titanic-Survival-Prediction-Using-Machine-Learning)

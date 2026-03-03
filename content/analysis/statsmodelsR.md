@@ -14,6 +14,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/R.BuildingStatisticalModelsinR_LinearRegression](https://github.com/AnalystGian/R.BuildingStatisticalModelsinR_LinearRegression)
+
 This project is for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell.
 It caters to your curiosity about building and interpreting linear regression models, understanding relationships within data,
 and evaluating model performance through visualization and diagnostic checks.
@@ -33,5 +35,3 @@ Below is the summary of the tasks performed in this project:
 - Task 7: Model Assessment II
 - Task 8: Model Prediction
 - Task 9: Checking Assumptions: Diagnostic Plots
-
-Link to this project in [https://github.com/AnalystGian/R.BuildingStatisticalModelsinR_LinearRegression](https://github.com/AnalystGian/R.BuildingStatisticalModelsinR_LinearRegression)

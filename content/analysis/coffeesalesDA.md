@@ -15,6 +15,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales](https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales)
+
 This project analyzes the data and transform into a dynamic dashboard
 that owners can use to identify patterns, trends, and opportunities for the business.
 
@@ -36,5 +38,3 @@ Below are the steps done in this project:
 - Task 4. Data Analysis with PivotTables (time series & trends)
 - Task 5. Data Visualization & Dashboarding
 - Task 6. Reporting
-
-Link to this project in [https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales](https://github.com/AnalystGian/DATA-ANALYSIS.Coffee-Sales)

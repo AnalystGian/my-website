@@ -13,6 +13,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/R.IntroductionToEDAInR](https://github.com/AnalystGian/R.IntroductionToEDAInR)
+
 This project is for people who are interested in unraveling the insights hidden within datasets. It caters to your curiosity about understanding data through visualization, statistical summaries, and uncovering patterns or anomalies.
 
 Below are the key objectives of this project:
@@ -27,5 +29,3 @@ Below is the summary of the tasks performed in this project:
 - Task 5: Plotting a Numerical and Categorical Variable
 - Task 6: Plotting two variables
 - Task 7: Plotting three variables - Wrap up
-
-Link to this project in [https://github.com/AnalystGian/R.IntroductionToEDAInR](https://github.com/AnalystGian/R.IntroductionToEDAInR)

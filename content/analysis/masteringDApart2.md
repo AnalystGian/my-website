@@ -16,6 +16,7 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-2](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-2)
 
 In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the second of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.
 
@@ -46,5 +47,3 @@ TASK 8: INTEGER-BASED DATAFRAME SELECTION
 TASK 9: BROADCAST OPERATIONS
 
 TASK 10: SORTING AND ORDERING
-
-Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-2](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-2)

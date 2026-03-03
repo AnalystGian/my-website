@@ -15,6 +15,7 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-1](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-1)
 
 In this structured series of projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the first of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.
 
@@ -49,5 +50,3 @@ TASK 10: PERFORM MATH OPERATIONS ON PANDAS SERIES
 TASK 11: CHECK IF GIVEN ELEMENTS EXIST IN A PANDAS SERIES
 
 TASK 12: FINAL CAPSTONE PROJECT
-
-Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-1](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-1)

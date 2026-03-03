@@ -20,6 +20,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Practical-Data-Wrangling-EDA-with-Pandas](https://github.com/AnalystGian/Practical-Data-Wrangling-EDA-with-Pandas)
+
 This project is about Data Wrangling and exploratory data analysis with Pandas. Exploratory Data Analysis (EDA) is a process of analyzing data to gain valuable insights such as statistical summary and visualizations. Pandas is a powerful open-source data analysis tool in python.
 
 # PROJECT STRUCTURE
@@ -40,5 +42,3 @@ TASK 6: PERFORM STANDARDIZATION
 TASK 7: PANDAS WITH FUNCTIONS
 
 TASK 8: FINAL CAPSTONE
-
-Link to this project in [https://github.com/AnalystGian/Practical-Data-Wrangling-EDA-with-Pandas](https://github.com/AnalystGian/Practical-Data-Wrangling-EDA-with-Pandas)

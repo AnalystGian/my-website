@@ -15,6 +15,8 @@ description: ""
 toc:
 ---
 
+Link to this project in [https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data](https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data)
+
 This project analyzes historical toy data to track key metrics,
 explore high-level trends, and build a simple but interactive KPI report.
 
@@ -39,6 +41,3 @@ Below are the steps done in this project:
 - Task 5. Creates measures (total orders, total revenue, total profit) , and calculated fields (revenue, profit)
 - Task 6. Data KPI Visualization & Dashboarding
 - Task 6. Reporting
-
-
-Link to this project in [https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data](https://github.com/AnalystGian/DATA-ANALYSIS.Toy-Store-Data)

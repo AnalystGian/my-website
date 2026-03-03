@@ -15,6 +15,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-4](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-4)
+
 In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the fourth of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.
 
 # Learning Objectives
@@ -38,5 +40,3 @@ TASK 5: MULTI-INDEXING OPERATIONS - PART #2
 TASK 6: DEALING WITH DATE TIME - BASIC PYTHON DATETIME MODULE
 
 TASK 7: DEALING WITH DATE TIME - HANDLING DATES AND TIMES USING PANDAS
-
-Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-4](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-4)

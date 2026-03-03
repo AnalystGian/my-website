@@ -14,6 +14,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/R.TS-Singapore-Labor-Force](https://github.com/AnalystGian/R.TS-Singapore-Labor-Force)
+
 This project is for individuals interested in analyzing trends over time through time series analysis. Using a dataset from Gapminder, we focus on identifying patterns and forecasting future trends. The insights gained are applicable in scientific research, economics, and business analytics.
 
 Below are the key objectives of this project:
@@ -28,5 +30,3 @@ Below is the summary of the tasks performed in this project:
 - Task 4: Using Holt Linear Trend Model - Damped
 - Task 5: Using ARIMA Model
 - Task 6: Model Comparison
-
-Link to this project in [https://github.com/AnalystGian/R.TS-Singapore-Labor-Force](https://github.com/AnalystGian/R.TS-Singapore-Labor-Force)

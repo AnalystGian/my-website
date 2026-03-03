@@ -15,6 +15,8 @@ description: ""
 toc:
 ---
 
+Link to this project in [https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report](https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report)
+
 This project analyzes, connecting and shaping the data,
 building a relational model, adding calculated fields, and designing an interactive report.
 
@@ -36,6 +38,3 @@ Below are the steps done in this project:
 - Task 5. Creates measures, calculated fields and includes complex DAX calculations.
 - Task 6. Data KPI Visualization & Dashboarding
 - Task 6. Reporting
-
-
-Link to this project in [https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report](https://github.com/AnalystGian/DATA-ANALYSIS.Maven-Market-Report)

@@ -19,6 +19,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Python-for-Data-Analysis](https://github.com/AnalystGian/Python-for-Data-Analysis)
+
 In this project, we will understand the fundamentals of data analysis in Python and we will leverage the power of two important python libraries known as Numpy and pandas. NumPy and Pandas are two of the most widely used python libraries in data science since they offer high-performance, easy to use structures and data analysis tools.
 
 # Resources
@@ -50,5 +52,3 @@ TASK 10: PERFORM SORTING AND ORDERING IN PANDAS
 TASK 11: PERFORM CONCATENATING AND MERGING WITH PANDAS
 
 TASK 12: PROJECT AND CONCLUDING REMARKS
-
-Link to this project in [https://github.com/AnalystGian/Python-for-Data-Analysis](https://github.com/AnalystGian/Python-for-Data-Analysis)

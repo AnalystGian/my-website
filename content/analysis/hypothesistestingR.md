@@ -15,6 +15,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/R.HypothesisTestingInR](https://github.com/AnalystGian/R.HypothesisTestingInR)
+
 This project is for people who are interested in statistically evaluating hypotheses and drawing conclusions from data in fields ranging from scientific research to business analytics.
 
 Below are the key objectives of this project:
@@ -28,5 +30,3 @@ Below is the summary of the tasks performed in this project:
 - Task 4: Two sample test for Proportions
 - Task 5: Two sample test for Means
 - Task 6: Matched Samples
-
-Link to this project in [https://github.com/AnalystGian/R.HypothesisTestingInR](https://github.com/AnalystGian/R.HypothesisTestingInR)

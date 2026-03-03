@@ -16,6 +16,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-3](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-3)
+
 In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the third of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.
 
 # Learning Objectives
@@ -37,5 +39,3 @@ TASK 4: DATAFRAME CONCATENATION
 TASK 5: DATAFRAME CONCATENATION WITH MULTI-INDEXING
 
 TASK 6: DATA MERGING
-
-Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-3](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-3)

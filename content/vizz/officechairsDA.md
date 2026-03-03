@@ -14,6 +14,8 @@ description: ""
 toc:
 ---
 
+Link to this project in [https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs](https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs)
+
 This project analyzes historical sales data alongside customer information
 to identify regional sales trends, popular product models, and customer preferences.
 
@@ -34,6 +36,3 @@ This project includes files:
 - Task 4. Data Transformation
 - Task 5. Data Analysis with PivotTables
 - Task 6. Creates Dashboard
-
-
-Link to this project in [https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs](https://github.com/AnalystGian/DATA-ANALYSIS.Office-Chairs)

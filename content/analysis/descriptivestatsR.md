@@ -13,6 +13,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/R.CalculatingBasicDescriptiveInR](https://github.com/AnalystGian/R.CalculatingBasicDescriptiveInR)
+
 This project is for people who are interested in data analysis, statistics, and programming in the R programming
 language. Descriptive statistics involve summarizing and describing the main features of a dataset, such as central
 tendency (mean, median, mode), dispersion (variance, standard deviation), and distribution (skewness, kurtosis). By
@@ -33,5 +35,3 @@ Below is the summary of the tasks performed in this project:
 - Task 5: Univariate statistics for univariate variables - Part II
 - Task 6: Distribution of Quantitative Variables
 - Task 7: Bivariate statistics for variables
-
-Link to this project in [https://github.com/AnalystGian/R.CalculatingBasicDescriptiveInR](https://github.com/AnalystGian/R.CalculatingBasicDescriptiveInR)

@@ -20,6 +20,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-5](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-5)
+
 In this structured series of hands-on projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This project is the fifth of a series of multiple projects (learning path) that is designed for anyone who wants to master data analysis with pandas.
 
 # Learning Objectives
@@ -45,5 +47,3 @@ TASK 6: PERFORM TEXT DATA CLEANING BY REMOVING PUNCTUATIONS
 TASK 7: PERFORM TEXT DATA CLEANING BY REMOVING STOPWORDS
 
 TASK 8: TEXT DATA VISUALIZATION
-
-Link to this project in [https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-5](https://github.com/AnalystGian/Mastering-Data-Analysis-with-Pandas-Part-5)

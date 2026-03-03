@@ -22,6 +22,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Naive-Bayes-Resume-Selection](https://github.com/AnalystGian/Naive-Bayes-Resume-Selection)
+
 In this project, we will build a Naïve Bayes classifiers to predict whether a given resume text is flagged or not. Our training data consist of 125 resumes with 33 flagged resumes and 92 non-flagged resumes. This project could be practically used to screen resumes in companies.
 
 # Data Scource:
@@ -59,5 +61,3 @@ TASK 8: UNDERSTAND THE THEORY AND INTUITION BEHIND NAIVE BAYES CLASSIFIERS - PAR
 TASK 9: TRAIN NAIVE BAYES CLASSIFIER MODEL
 
 TASK 10: ASSESS TRAINED MODEL PERFORMANCE
-
-Link to this project in [https://github.com/AnalystGian/Naive-Bayes-Resume-Selection](https://github.com/AnalystGian/Naive-Bayes-Resume-Selection)

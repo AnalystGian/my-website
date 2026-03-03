@@ -13,6 +13,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/SQL.DataCleaningProject](https://github.com/AnalystGian/SQL.DataCleaningProject)
+
 This project focuses on cleaning and preparing the Cyclistic Bikeshare dataset for further analysis. The dataset contains information about bike trips, including usertypes, trip details, and timestamp information
 
 STEPS:
@@ -24,5 +26,3 @@ STEPS:
   3. Exporting Cleaned Data: Used SQL Server tools to export the cleaned dataset to a CSV file for further analysis.
 
   4. Documentation: Created a readme file to document the data cleaning steps, providing transparency and reproducibility.
-
-Link to this project in [https://github.com/AnalystGian/SQL.DataCleaningProject](https://github.com/AnalystGian/SQL.DataCleaningProject)

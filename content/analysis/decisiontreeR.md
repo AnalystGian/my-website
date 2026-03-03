@@ -15,6 +15,7 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/R.DecisionTreeClassifierInR](https://github.com/AnalystGian/R.DecisionTreeClassifierInR)
 
 This project is designed for individuals eager to dive into the world of statistical modeling and uncover the stories data can tell through decision trees.
 It caters to your curiosity about building and interpreting decision tree classifiers, understanding the relationships and splits within your data, and evaluating
@@ -33,5 +34,3 @@ Below is the summary of the tasks performed in this project:
 - Task 5: Train the Decision Tree Model
 - Task 6: Evaluating Model Performance
 - Task 7: Wrap up
-
-Link to this project in [https://github.com/AnalystGian/R.DecisionTreeClassifierInR](https://github.com/AnalystGian/R.DecisionTreeClassifierInR)

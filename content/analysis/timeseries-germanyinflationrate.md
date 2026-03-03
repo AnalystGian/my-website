@@ -15,6 +15,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/R.TS-Inflation-Rate-in-Germany](https://github.com/AnalystGian/R.TS-Inflation-Rate-in-Germany)
+
 This project is for individuals interested in analyzing seasonal trends through time series analysis. Using Germany inflation data from Statbureau, we perform seasonal decomposition, apply Seasonal ARIMA and Exponential Smoothing with ETS models, and conduct time series cross-validation. The insights are valuable for economic research, financial analysis, and business planning.
 
 You can download the dataset in [statbureau](https://www.statbureau.org/en/germany/inflation-tables) website
@@ -32,5 +34,3 @@ Below is the summary of the tasks performed in this project:
 - Task 4: Seasonal ARIMA
 - Task 5: Exponential Smoothing with ETS
 - Task 6: Time Series Cross Validation
-
-Link to this project in [https://github.com/AnalystGian/R.TS-Inflation-Rate-in-Germany](https://github.com/AnalystGian/R.TS-Inflation-Rate-in-Germany)

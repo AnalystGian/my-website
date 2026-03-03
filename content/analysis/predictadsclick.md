@@ -22,6 +22,8 @@ description: ""
 toc: false
 ---
 
+Link to this project in [https://github.com/AnalystGian/Predict-Ad-Clicks-Using-Logistic-Reg-and-XG-Boost](https://github.com/AnalystGian/Predict-Ad-Clicks-Using-Logistic-Reg-and-XG-Boost)
+
 In this project, we will predict Ads clicks using logistic regression and XG-boost algorithms. I will assume that i have been hired as a consultant to a start-up that is running a targeted marketing ad campaign on Facebook. The company wants to analyze customer behavior by predicting which customer clicks on the advertisement.
 
 # Project Objectives
@@ -47,5 +49,3 @@ TASK 6: PERFORM MODEL TRAINING
 TASK 7: TEST TRAINED MODEL
 
 TASK 8: VISUALIZE TRAINING/TESTING DATASETS AND TRAINED MODEL
-
-Link to this project in [https://github.com/AnalystGian/Predict-Ad-Clicks-Using-Logistic-Reg-and-XG-Boost](https://github.com/AnalystGian/Predict-Ad-Clicks-Using-Logistic-Reg-and-XG-Boost)
